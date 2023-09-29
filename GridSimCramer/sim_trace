@@ -1,138 +1,138 @@
 u: Res_0_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
 u: Res_0_link at 0.0: waiting for an event
-u: Res_7_TimeShared at 0.0: waiting for an event
-u: Res_6_TimeShared at 0.0: waiting for an event
-u: Res_2_TimeShared at 0.0: waiting for an event
-u: Res_8_TimeShared at 0.0: waiting for an event
-u: Res_5_TimeShared at 0.0: waiting for an event
-u: Res_4_TimeShared at 0.0: waiting for an event
-u: Res_1_TimeShared at 0.0: waiting for an event
-u: Res_0_TimeShared at 0.0: waiting for an event
+u: Output_GridInformationService at 0.0: waiting for an event
+u: Res_1 at 0.0: scheduling event type 2 for Output_Res_1 with delay 0.0
 u: GridSimShutdown at 0.0: waiting for an event
-u: Input_GridInformationService at 0.0: waiting for an event
-u: Res_0 at 0.0: scheduling event type 2 for Output_Res_0 with delay 0.0
-u: Res_8 at 0.0: scheduling event type 2 for Output_Res_8 with delay 0.0
-u: Res_8 at 0.0: waiting for an event
-u: Res_7 at 0.0: scheduling event type 2 for Output_Res_7 with delay 0.0
-u: Res_7 at 0.0: waiting for an event
+u: Res_0_TimeShared at 0.0: waiting for an event
 u: Res_3 at 0.0: scheduling event type 2 for Output_Res_3 with delay 0.0
 u: Res_3 at 0.0: waiting for an event
-u: router1 at 0.0: scheduling event type 101 for GridInformationService with delay 0.0
-u: router2 at 0.0: scheduling event type 101 for GridInformationService with delay 0.0
+u: Res_4 at 0.0: scheduling event type 2 for Output_Res_4 with delay 0.0
+u: Res_4 at 0.0: waiting for an event
 u: Res_2 at 0.0: scheduling event type 2 for Output_Res_2 with delay 0.0
 u: Res_2 at 0.0: waiting for an event
+u: Res_1_TimeShared at 0.0: waiting for an event
+u: Res_4_TimeShared at 0.0: waiting for an event
+u: Res_7 at 0.0: scheduling event type 2 for Output_Res_7 with delay 0.0
+u: Res_7 at 0.0: waiting for an event
+u: Res_5_TimeShared at 0.0: waiting for an event
+u: Res_8 at 0.0: scheduling event type 2 for Output_Res_8 with delay 0.0
+u: Res_8 at 0.0: waiting for an event
+u: Res_5 at 0.0: scheduling event type 2 for Output_Res_5 with delay 0.0
+u: Res_5 at 0.0: waiting for an event
+u: Res_2_TimeShared at 0.0: waiting for an event
+u: Res_7_TimeShared at 0.0: waiting for an event
+u: Res_6_TimeShared at 0.0: waiting for an event
+u: Res_6 at 0.0: scheduling event type 2 for Output_Res_6 with delay 0.0
+u: Res_6 at 0.0: waiting for an event
+u: Res_8_TimeShared at 0.0: waiting for an event
+u: Res_3_TimeShared at 0.0: waiting for an event
+u: Res_9 at 0.0: scheduling event type 2 for Output_Res_9 with delay 0.0
+u: Res_9 at 0.0: waiting for an event
+u: Res_0 at 0.0: scheduling event type 2 for Output_Res_0 with delay 0.0
+u: Res_0 at 0.0: waiting for an event
+u: router2 at 0.0: scheduling event type 101 for GridInformationService with delay 0.0
 u: User_0 at 0.0: start processing
 u: User_0_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
 u: User_0_link at 0.0: waiting for an event
-u: Input_Res_9 at 0.0: waiting for an event
-u: Res_9 at 0.0: scheduling event type 2 for Output_Res_9 with delay 0.0
 u: Output_Res_8 at 0.0: waiting for an event
 u: Input_Res_8 at 0.0: waiting for an event
 u: Output_Res_7 at 0.0: waiting for an event
 u: Res_7_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
 u: Res_7_link at 0.0: waiting for an event
-u: Res_6 at 0.0: scheduling event type 2 for Output_Res_6 with delay 0.0
-u: Res_6 at 0.0: waiting for an event
 u: Res_6_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
 u: Res_6_link at 0.0: waiting for an event
-u: Res_5 at 0.0: scheduling event type 2 for Output_Res_5 with delay 0.0
-u: Res_5 at 0.0: waiting for an event
-u: Res_1 at 0.0: scheduling event type 2 for Output_Res_1 with delay 0.0
-u: Res_1 at 0.0: waiting for an event
+u: Input_Res_5 at 0.0: waiting for an event
 u: Output_Res_4 at 0.0: waiting for an event
 u: Input_Res_4 at 0.0: waiting for an event
-u: Output_Res_3 at 0.0: waiting for an event
+u: r1_r2_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
+u: r1_r2_link at 0.0: waiting for an event
+u: Output_User_0 at 0.0: waiting for an event
+u: Res_9_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
+u: Res_9_link at 0.0: waiting for an event
 u: Res_3_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
 u: Res_3_link at 0.0: waiting for an event
+u: Res_8_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
+u: Res_8_link at 0.0: waiting for an event
+u: Input_Res_7 at 0.0: waiting for an event
+u: Output_Res_6 at 0.0: waiting for an event
+u: Res_5_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
+u: Res_4_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
+u: Res_4_link at 0.0: waiting for an event
+u: router2 at 0.0: scheduling event type 103 for router1 with delay 0.0
+u: router2 at 0.0: start pausing
 u: Res_2_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
 u: Res_2_link at 0.0: waiting for an event
 u: Input_Res_1 at 0.0: waiting for an event
-u: Output_Res_0 at 0.0: waiting for an event
+u: Output_Res_2 at 0.0: waiting for an event
+u: Res_1_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
+u: Res_1_link at 0.0: waiting for an event
 u: Input_Res_0 at 0.0: waiting for an event
-u: Output_GridInformationService at 0.0: waiting for an event
-u: Res_9_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
-u: Res_8_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
-u: Res_8_link at 0.0: waiting for an event
-u: Input_User_0 at 0.0: waiting for an event
+u: Input_Res_2 at 0.0: waiting for an event
+u: Res_5_link at 0.0: waiting for an event
+u: Input_Res_6 at 0.0: waiting for an event
+u: Output_Res_3 at 0.0: waiting for an event
 u: Output_Res_9 at 0.0: waiting for an event
+u: Input_User_0 at 0.0: waiting for an event
+u: Input_Res_9 at 0.0: waiting for an event
+u: router1 at 0.0: scheduling event type 101 for GridInformationService with delay 0.0
 u: router1 at 0.0: scheduling event type 103 for router2 with delay 0.0
 u: router1 at 0.0: start pausing
-u: Input_Res_7 at 0.0: waiting for an event
-u: Output_Res_6 at 0.0: waiting for an event
-u: Output_Res_5 at 0.0: waiting for an event
-u: Res_5_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
-u: Res_5_link at 0.0: waiting for an event
-u: Res_4_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
-u: Res_4_link at 0.0: waiting for an event
-u: Input_Res_3 at 0.0: waiting for an event
-u: Input_Res_2 at 0.0: waiting for an event
-u: Output_Res_1 at 0.0: waiting for an event
-u: Res_1_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
-u: Input_Res_6 at 0.0: waiting for an event
-u: Output_User_0 at 0.0: waiting for an event
-u: router2 at 0.0: scheduling event type 103 for router1 with delay 0.0
-u: router2 at 0.0: start pausing
-u: Res_9_link at 0.0: waiting for an event
-u: r1_r2_link at 0.0: scheduling event type 100 for GridInformationService with delay 0.0
-u: r1_r2_link at 0.0: waiting for an event
-u: Input_Res_5 at 0.0: waiting for an event
-u: Res_9 at 0.0: waiting for an event
-u: Res_0 at 0.0: waiting for an event
-u: Res_4 at 0.0: scheduling event type 2 for Output_Res_4 with delay 0.0
-u: Res_4 at 0.0: waiting for an event
-u: GridInformationService at 0.0: waiting for an event
 u: Res_9_TimeShared at 0.0: waiting for an event
-u: Res_1_link at 0.0: waiting for an event
-u: Output_Res_2 at 0.0: waiting for an event
-u: Res_3_TimeShared at 0.0: waiting for an event
-u: GridInformationService at 0.0: selected event type 101 (event time was 0.0)
-u: GridInformationService at 0.0: selected event type 101 (event time was 0.0)
-u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
-u: Output_Res_8 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
+u: Res_1 at 0.0: waiting for an event
+u: Input_GridInformationService at 0.0: waiting for an event
+u: GridInformationService at 0.0: waiting for an event
+u: Output_Res_5 at 0.0: waiting for an event
+u: Input_Res_3 at 0.0: waiting for an event
+u: Output_Res_1 at 0.0: waiting for an event
+u: Output_Res_0 at 0.0: waiting for an event
+u: Output_Res_1 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
 u: Output_Res_5 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
 u: Output_Res_5 at 0.0: start processing
-u: Output_Res_0 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
-u: Output_Res_0 at 0.0: start processing
-u: Output_Res_1 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
 u: Output_Res_1 at 0.0: start processing
-u: Output_Res_8 at 0.0: start processing
-u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
-u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
-u: Output_Res_4 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
-u: Output_Res_4 at 0.0: start processing
-u: Output_Res_2 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
-u: Output_Res_2 at 0.0: start processing
-u: Output_Res_3 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
-u: Output_Res_3 at 0.0: start processing
 u: Output_Res_9 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
 u: Output_Res_9 at 0.0: start processing
-u: Output_Res_6 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
+u: Output_Res_4 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
+u: Output_Res_2 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
+u: Output_Res_2 at 0.0: start processing
+u: GridInformationService at 0.0: selected event type 101 (event time was 0.0)
+u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
 u: Output_Res_7 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
 u: Output_Res_7 at 0.0: start processing
+u: Output_Res_3 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
+u: Output_Res_3 at 0.0: start processing
+u: Output_Res_0 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
+u: Output_Res_0 at 0.0: start processing
 u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
-u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
-u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
+u: Output_Res_8 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
+u: Output_Res_8 at 0.0: start processing
+u: Output_Res_4 at 0.0: start processing
+u: Output_Res_6 at 0.0: scheduling event type 2 for Input_GridInformationService with delay 0.0
 u: Output_Res_6 at 0.0: start processing
 u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
 u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
 u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
 u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
 u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
+u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
+u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
+u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
+u: GridInformationService at 0.0: selected event type 100 (event time was 0.0)
+u: GridInformationService at 0.0: selected event type 101 (event time was 0.0)
 u: GridInformationService at 0.0: waiting for an event
 u: Input_GridInformationService at 0.0: start processing
 u: Input_GridInformationService at 0.096: scheduling event type 2 for GridInformationService with delay 0.0
 u: Input_GridInformationService at 0.096: selected event type 2 (event time was 0.0)
 u: Input_GridInformationService at 0.096: start processing
-u: Output_Res_8 at 0.096: waiting for an event
-u: Output_Res_7 at 0.096: waiting for an event
-u: Output_Res_5 at 0.096: waiting for an event
-u: Output_Res_2 at 0.096: waiting for an event
-u: Output_Res_1 at 0.096: waiting for an event
-u: Output_Res_3 at 0.096: waiting for an event
-u: Output_Res_6 at 0.096: waiting for an event
-u: Output_Res_4 at 0.096: waiting for an event
 u: Output_Res_9 at 0.096: waiting for an event
+u: Output_Res_8 at 0.096: waiting for an event
+u: Output_Res_1 at 0.096: waiting for an event
+u: Output_Res_2 at 0.096: waiting for an event
+u: Output_Res_5 at 0.096: waiting for an event
+u: Output_Res_6 at 0.096: waiting for an event
+u: Output_Res_3 at 0.096: waiting for an event
+u: Output_Res_7 at 0.096: waiting for an event
 u: Output_Res_0 at 0.096: waiting for an event
+u: Output_Res_4 at 0.096: waiting for an event
 u: GridInformationService at 0.096: waiting for an event
 u: Input_GridInformationService at 0.192: scheduling event type 2 for GridInformationService with delay 0.0
 u: Input_GridInformationService at 0.192: selected event type 2 (event time was 0.0)
@@ -173,10 +173,8 @@ u: User_0 at 3.0: scheduling event type 21 for Output_User_0 with delay 0.0
 u: User_0 at 3.0: scheduling event type 21 for Output_User_0 with delay 0.0
 u: User_0 at 3.0: scheduling event type 21 for Output_User_0 with delay 0.0
 u: User_0 at 3.0: scheduling event type 21 for Output_User_0 with delay 0.0
-u: User_0 at 3.0: scheduling event type 21 for Output_User_0 with delay 0.0
 u: User_0 at 3.0: start processing
 u: Output_User_0 at 3.0: scheduling event type 104 for Output_User_0 with delay 12.0
-u: Output_User_0 at 3.0: selected event type 21 (event time was 3.0)
 u: Output_User_0 at 3.0: selected event type 21 (event time was 3.0)
 u: Output_User_0 at 3.0: selected event type 21 (event time was 3.0)
 u: Output_User_0 at 3.0: selected event type 21 (event time was 3.0)
@@ -224,19 +222,19 @@ u: r1_r2_link at 28.21: scheduling event type 0 for r1_r2_link with delay 0.01
 u: r1_r2_link at 28.21: event type 102 completed service
 u: r1_r2_link at 28.21: waiting for an event
 u: r1_r2_link at 28.220000000000002: scheduling event type 102 for router2 with delay 0.0
-u: router2 at 28.220000000000002: scheduling event type 102 for Res_8_link with delay 0.0
+u: router2 at 28.220000000000002: scheduling event type 102 for Res_1_link with delay 0.0
 u: router2 at 28.220000000000002: waiting for an event
 u: r1_r2_link at 28.220000000000002: event type 0 completed service
 u: r1_r2_link at 28.220000000000002: waiting for an event
-u: Res_8_link at 28.220000000000002: scheduling event type 0 for Res_8_link with delay 0.01
-u: Res_8_link at 28.220000000000002: event type 102 completed service
+u: Res_1_link at 28.220000000000002: scheduling event type 0 for Res_1_link with delay 0.01
+u: Res_1_link at 28.220000000000002: event type 102 completed service
+u: Res_1_link at 28.220000000000002: waiting for an event
 u: router2 at 28.220000000000002: scheduling event type 0 for router2 with delay 12.0
-u: Res_8_link at 28.220000000000002: waiting for an event
 u: router2 at 28.220000000000002: waiting for an event
-u: Res_8_link at 28.230000000000004: scheduling event type 108 for Input_Res_8 with delay 0.0
-u: Res_8_link at 28.230000000000004: event type 0 completed service
-u: Res_8_link at 28.230000000000004: waiting for an event
-u: Input_Res_8 at 28.230000000000004: waiting for an event
+u: Res_1_link at 28.230000000000004: scheduling event type 108 for Input_Res_1 with delay 0.0
+u: Res_1_link at 28.230000000000004: event type 0 completed service
+u: Res_1_link at 28.230000000000004: waiting for an event
+u: Input_Res_1 at 28.230000000000004: waiting for an event
 u: Output_User_0 at 39.0: scheduling event type 102 for User_0_link with delay 0.0
 u: Output_User_0 at 39.0: scheduling event type 104 for Output_User_0 with delay 12.0
 u: Output_User_0 at 39.0: waiting for an event
@@ -256,17 +254,17 @@ u: r1_r2_link at 40.21: waiting for an event
 u: r1_r2_link at 40.22: scheduling event type 102 for router2 with delay 0.0
 u: r1_r2_link at 40.22: event type 0 completed service
 u: r1_r2_link at 40.22: waiting for an event
-u: router2 at 40.22: scheduling event type 102 for Res_8_link with delay 0.0
+u: router2 at 40.22: scheduling event type 102 for Res_1_link with delay 0.0
 u: router2 at 40.22: waiting for an event
-u: Res_8_link at 40.22: scheduling event type 0 for Res_8_link with delay 0.01
-u: Res_8_link at 40.22: event type 102 completed service
-u: Res_8_link at 40.22: waiting for an event
 u: router2 at 40.22: scheduling event type 0 for router2 with delay 12.0
+u: Res_1_link at 40.22: scheduling event type 0 for Res_1_link with delay 0.01
+u: Res_1_link at 40.22: event type 102 completed service
+u: Res_1_link at 40.22: waiting for an event
 u: router2 at 40.22: waiting for an event
-u: Res_8_link at 40.23: scheduling event type 108 for Input_Res_8 with delay 0.0
-u: Res_8_link at 40.23: event type 0 completed service
-u: Res_8_link at 40.23: waiting for an event
-u: Input_Res_8 at 40.23: waiting for an event
+u: Res_1_link at 40.23: scheduling event type 108 for Input_Res_1 with delay 0.0
+u: Res_1_link at 40.23: event type 0 completed service
+u: Res_1_link at 40.23: waiting for an event
+u: Input_Res_1 at 40.23: waiting for an event
 u: Output_User_0 at 51.0: scheduling event type 102 for User_0_link with delay 0.0
 u: Output_User_0 at 51.0: scheduling event type 104 for Output_User_0 with delay 4.0
 u: Output_User_0 at 51.0: waiting for an event
@@ -287,16 +285,16 @@ u: r1_r2_link at 51.419999999999995: scheduling event type 102 for router2 with 
 u: r1_r2_link at 51.419999999999995: event type 0 completed service
 u: r1_r2_link at 51.419999999999995: waiting for an event
 u: router2 at 51.419999999999995: waiting for an event
-u: router2 at 52.22: scheduling event type 102 for Res_8_link with delay 0.0
+u: router2 at 52.22: scheduling event type 102 for Res_1_link with delay 0.0
 u: router2 at 52.22: scheduling event type 0 for router2 with delay 12.0
 u: router2 at 52.22: waiting for an event
-u: Res_8_link at 52.22: scheduling event type 0 for Res_8_link with delay 0.01
-u: Res_8_link at 52.22: event type 102 completed service
-u: Res_8_link at 52.22: waiting for an event
-u: Res_8_link at 52.23: scheduling event type 108 for Input_Res_8 with delay 0.0
-u: Res_8_link at 52.23: event type 0 completed service
-u: Res_8_link at 52.23: waiting for an event
-u: Input_Res_8 at 52.23: waiting for an event
+u: Res_1_link at 52.22: scheduling event type 0 for Res_1_link with delay 0.01
+u: Res_1_link at 52.22: event type 102 completed service
+u: Res_1_link at 52.22: waiting for an event
+u: Res_1_link at 52.23: scheduling event type 108 for Input_Res_1 with delay 0.0
+u: Res_1_link at 52.23: event type 0 completed service
+u: Res_1_link at 52.23: waiting for an event
+u: Input_Res_1 at 52.23: waiting for an event
 u: Output_User_0 at 55.0: scheduling event type 102 for User_0_link with delay 0.0
 u: Output_User_0 at 55.0: scheduling event type 104 for Output_User_0 with delay 12.0
 u: Output_User_0 at 55.0: waiting for an event
@@ -318,18 +316,18 @@ u: r1_r2_link at 56.22: event type 0 completed service
 u: r1_r2_link at 56.22: waiting for an event
 u: router2 at 56.22: scheduling event type 0 for router2 with delay 12.0
 u: router2 at 56.22: waiting for an event
-u: router2 at 64.22: scheduling event type 102 for Res_8_link with delay 0.0
+u: router2 at 64.22: scheduling event type 102 for Res_1_link with delay 0.0
 u: router2 at 64.22: waiting for an event
-u: Res_8_link at 64.22: scheduling event type 0 for Res_8_link with delay 0.01
-u: Res_8_link at 64.22: event type 102 completed service
-u: Res_8_link at 64.22: waiting for an event
-u: Res_8_link at 64.23: scheduling event type 21 for Input_Res_8 with delay 0.0
-u: Res_8_link at 64.23: event type 0 completed service
-u: Res_8_link at 64.23: waiting for an event
-u: Input_Res_8 at 64.23: scheduling event type 21 for Res_8 with delay 0.0
-u: Input_Res_8 at 64.23: waiting for an event
-u: Res_8_TimeShared at 64.23: scheduling event type 0 for Res_8_TimeShared with delay 13.26259946949602
-u: Res_8 at 64.23: waiting for an event
+u: Res_1_link at 64.22: scheduling event type 0 for Res_1_link with delay 0.01
+u: Res_1_link at 64.22: event type 102 completed service
+u: Res_1_link at 64.22: waiting for an event
+u: Res_1_link at 64.23: scheduling event type 21 for Input_Res_1 with delay 0.0
+u: Res_1_link at 64.23: event type 0 completed service
+u: Res_1_link at 64.23: waiting for an event
+u: Input_Res_1 at 64.23: scheduling event type 21 for Res_1 with delay 0.0
+u: Input_Res_1 at 64.23: waiting for an event
+u: Res_1_TimeShared at 64.23: scheduling event type 0 for Res_1_TimeShared with delay 13.26259946949602
+u: Res_1 at 64.23: waiting for an event
 u: Output_User_0 at 67.0: scheduling event type 102 for User_0_link with delay 0.0
 u: Output_User_0 at 67.0: scheduling event type 104 for Output_User_0 with delay 12.0
 u: Output_User_0 at 67.0: waiting for an event
@@ -360,12 +358,12 @@ u: Res_5_link at 68.23: scheduling event type 108 for Input_Res_5 with delay 0.0
 u: Res_5_link at 68.23: event type 0 completed service
 u: Res_5_link at 68.23: waiting for an event
 u: Input_Res_5 at 68.23: waiting for an event
-u: Res_8_TimeShared at 77.49259946949603: scheduling event type 20 for Output_Res_8 with delay 0.0
-u: Res_8_TimeShared at 77.49259946949603: scheduling event type 0 for Res_8_TimeShared with delay 0.0
-u: Res_8_TimeShared at 77.49259946949603: waiting for an event
-u: Output_Res_8 at 77.49259946949603: scheduling event type 104 for Output_Res_8 with delay 12.0
-u: Output_Res_8 at 77.49259946949603: waiting for an event
-u: Res_8_TimeShared at 77.49259946949603: waiting for an event
+u: Res_1_TimeShared at 77.49259946949603: scheduling event type 20 for Output_Res_1 with delay 0.0
+u: Res_1_TimeShared at 77.49259946949603: scheduling event type 0 for Res_1_TimeShared with delay 0.0
+u: Res_1_TimeShared at 77.49259946949603: waiting for an event
+u: Res_1_TimeShared at 77.49259946949603: waiting for an event
+u: Output_Res_1 at 77.49259946949603: scheduling event type 104 for Output_Res_1 with delay 12.0
+u: Output_Res_1 at 77.49259946949603: waiting for an event
 u: Output_User_0 at 79.0: scheduling event type 102 for User_0_link with delay 0.0
 u: Output_User_0 at 79.0: scheduling event type 104 for Output_User_0 with delay 12.0
 u: Output_User_0 at 79.0: waiting for an event
@@ -389,22 +387,22 @@ u: r1_r2_link at 80.22000000000001: waiting for an event
 u: router2 at 80.22000000000001: waiting for an event
 u: Res_5_link at 80.22000000000001: scheduling event type 0 for Res_5_link with delay 0.01
 u: Res_5_link at 80.22000000000001: event type 102 completed service
-u: Res_5_link at 80.22000000000001: waiting for an event
 u: router2 at 80.22000000000001: scheduling event type 0 for router2 with delay 12.0
+u: Res_5_link at 80.22000000000001: waiting for an event
 u: router2 at 80.22000000000001: waiting for an event
 u: Res_5_link at 80.23000000000002: scheduling event type 108 for Input_Res_5 with delay 0.0
 u: Res_5_link at 80.23000000000002: event type 0 completed service
 u: Res_5_link at 80.23000000000002: waiting for an event
 u: Input_Res_5 at 80.23000000000002: waiting for an event
-u: Output_Res_8 at 89.49259946949603: scheduling event type 102 for Res_8_link with delay 0.0
-u: Output_Res_8 at 89.49259946949603: scheduling event type 104 for Output_Res_8 with delay 12.0
-u: Output_Res_8 at 89.49259946949603: waiting for an event
-u: Res_8_link at 89.49259946949603: scheduling event type 0 for Res_8_link with delay 0.01
-u: Res_8_link at 89.49259946949603: event type 102 completed service
-u: Res_8_link at 89.49259946949603: waiting for an event
-u: Res_8_link at 89.50259946949603: scheduling event type 102 for router2 with delay 0.0
-u: Res_8_link at 89.50259946949603: event type 0 completed service
-u: Res_8_link at 89.50259946949603: waiting for an event
+u: Output_Res_1 at 89.49259946949603: scheduling event type 102 for Res_1_link with delay 0.0
+u: Output_Res_1 at 89.49259946949603: scheduling event type 104 for Output_Res_1 with delay 12.0
+u: Output_Res_1 at 89.49259946949603: waiting for an event
+u: Res_1_link at 89.49259946949603: scheduling event type 0 for Res_1_link with delay 0.01
+u: Res_1_link at 89.49259946949603: event type 102 completed service
+u: Res_1_link at 89.49259946949603: waiting for an event
+u: Res_1_link at 89.50259946949603: scheduling event type 102 for router2 with delay 0.0
+u: Res_1_link at 89.50259946949603: event type 0 completed service
+u: Res_1_link at 89.50259946949603: waiting for an event
 u: router2 at 89.50259946949603: scheduling event type 0 for router2 with delay 1.2
 u: router2 at 89.50259946949603: waiting for an event
 u: router2 at 90.70259946949604: scheduling event type 102 for r1_r2_link with delay 0.0
@@ -468,15 +466,15 @@ u: r1_r2_link at 96.22000000000001: event type 0 completed service
 u: r1_r2_link at 96.22000000000001: waiting for an event
 u: router2 at 96.22000000000001: scheduling event type 0 for router2 with delay 12.0
 u: router2 at 96.22000000000001: waiting for an event
-u: Output_Res_8 at 101.49259946949603: scheduling event type 102 for Res_8_link with delay 0.0
-u: Output_Res_8 at 101.49259946949603: scheduling event type 104 for Output_Res_8 with delay 12.0
-u: Output_Res_8 at 101.49259946949603: waiting for an event
-u: Res_8_link at 101.49259946949603: scheduling event type 0 for Res_8_link with delay 0.01
-u: Res_8_link at 101.49259946949603: event type 102 completed service
-u: Res_8_link at 101.49259946949603: waiting for an event
-u: Res_8_link at 101.50259946949603: scheduling event type 102 for router2 with delay 0.0
-u: Res_8_link at 101.50259946949603: event type 0 completed service
-u: Res_8_link at 101.50259946949603: waiting for an event
+u: Output_Res_1 at 101.49259946949603: scheduling event type 102 for Res_1_link with delay 0.0
+u: Output_Res_1 at 101.49259946949603: scheduling event type 104 for Output_Res_1 with delay 12.0
+u: Output_Res_1 at 101.49259946949603: waiting for an event
+u: Res_1_link at 101.49259946949603: scheduling event type 0 for Res_1_link with delay 0.01
+u: Res_1_link at 101.49259946949603: event type 102 completed service
+u: Res_1_link at 101.49259946949603: waiting for an event
+u: Res_1_link at 101.50259946949603: scheduling event type 102 for router2 with delay 0.0
+u: Res_1_link at 101.50259946949603: event type 0 completed service
+u: Res_1_link at 101.50259946949603: waiting for an event
 u: router2 at 101.50259946949603: scheduling event type 0 for router2 with delay 1.2
 u: router2 at 101.50259946949603: waiting for an event
 u: router2 at 102.70259946949604: scheduling event type 102 for r1_r2_link with delay 0.0
@@ -485,13 +483,13 @@ u: r1_r2_link at 102.70259946949604: scheduling event type 0 for r1_r2_link with
 u: r1_r2_link at 102.70259946949604: event type 102 completed service
 u: r1_r2_link at 102.70259946949604: waiting for an event
 u: r1_r2_link at 102.71259946949604: scheduling event type 102 for router1 with delay 0.0
-u: router1 at 102.71259946949604: scheduling event type 102 for User_0_link with delay 0.0
 u: r1_r2_link at 102.71259946949604: event type 0 completed service
-u: router1 at 102.71259946949604: waiting for an event
 u: r1_r2_link at 102.71259946949604: waiting for an event
+u: router1 at 102.71259946949604: scheduling event type 102 for User_0_link with delay 0.0
+u: router1 at 102.71259946949604: waiting for an event
 u: User_0_link at 102.71259946949604: scheduling event type 0 for User_0_link with delay 0.01
-u: router1 at 102.71259946949604: scheduling event type 0 for router1 with delay 12.0
 u: User_0_link at 102.71259946949604: event type 102 completed service
+u: router1 at 102.71259946949604: scheduling event type 0 for router1 with delay 12.0
 u: User_0_link at 102.71259946949604: waiting for an event
 u: router1 at 102.71259946949604: waiting for an event
 u: User_0_link at 102.72259946949605: scheduling event type 108 for Input_User_0 with delay 0.0
@@ -529,26 +527,26 @@ u: r1_r2_link at 108.21000000000001: waiting for an event
 u: r1_r2_link at 108.22000000000001: scheduling event type 102 for router2 with delay 0.0
 u: r1_r2_link at 108.22000000000001: event type 0 completed service
 u: r1_r2_link at 108.22000000000001: waiting for an event
-u: router2 at 108.22000000000001: scheduling event type 102 for Res_0_link with delay 0.0
+u: router2 at 108.22000000000001: scheduling event type 102 for Res_9_link with delay 0.0
 u: router2 at 108.22000000000001: waiting for an event
-u: Res_0_link at 108.22000000000001: scheduling event type 0 for Res_0_link with delay 0.01
 u: router2 at 108.22000000000001: scheduling event type 0 for router2 with delay 12.0
-u: Res_0_link at 108.22000000000001: event type 102 completed service
-u: Res_0_link at 108.22000000000001: waiting for an event
+u: Res_9_link at 108.22000000000001: scheduling event type 0 for Res_9_link with delay 0.01
+u: Res_9_link at 108.22000000000001: event type 102 completed service
 u: router2 at 108.22000000000001: waiting for an event
-u: Res_0_link at 108.23000000000002: scheduling event type 108 for Input_Res_0 with delay 0.0
-u: Res_0_link at 108.23000000000002: event type 0 completed service
-u: Res_0_link at 108.23000000000002: waiting for an event
-u: Input_Res_0 at 108.23000000000002: waiting for an event
-u: Output_Res_8 at 113.49259946949603: scheduling event type 102 for Res_8_link with delay 0.0
-u: Output_Res_8 at 113.49259946949603: scheduling event type 104 for Output_Res_8 with delay 12.0
-u: Output_Res_8 at 113.49259946949603: waiting for an event
-u: Res_8_link at 113.49259946949603: scheduling event type 0 for Res_8_link with delay 0.01
-u: Res_8_link at 113.49259946949603: event type 102 completed service
-u: Res_8_link at 113.49259946949603: waiting for an event
-u: Res_8_link at 113.50259946949603: scheduling event type 102 for router2 with delay 0.0
-u: Res_8_link at 113.50259946949603: event type 0 completed service
-u: Res_8_link at 113.50259946949603: waiting for an event
+u: Res_9_link at 108.22000000000001: waiting for an event
+u: Res_9_link at 108.23000000000002: scheduling event type 108 for Input_Res_9 with delay 0.0
+u: Res_9_link at 108.23000000000002: event type 0 completed service
+u: Res_9_link at 108.23000000000002: waiting for an event
+u: Input_Res_9 at 108.23000000000002: waiting for an event
+u: Output_Res_1 at 113.49259946949603: scheduling event type 102 for Res_1_link with delay 0.0
+u: Output_Res_1 at 113.49259946949603: scheduling event type 104 for Output_Res_1 with delay 12.0
+u: Output_Res_1 at 113.49259946949603: waiting for an event
+u: Res_1_link at 113.49259946949603: scheduling event type 0 for Res_1_link with delay 0.01
+u: Res_1_link at 113.49259946949603: event type 102 completed service
+u: Res_1_link at 113.49259946949603: waiting for an event
+u: Res_1_link at 113.50259946949603: scheduling event type 102 for router2 with delay 0.0
+u: Res_1_link at 113.50259946949603: event type 0 completed service
+u: Res_1_link at 113.50259946949603: waiting for an event
 u: router2 at 113.50259946949603: scheduling event type 0 for router2 with delay 1.2
 u: router2 at 113.50259946949603: waiting for an event
 u: router2 at 114.70259946949604: scheduling event type 102 for r1_r2_link with delay 0.0
@@ -557,10 +555,10 @@ u: r1_r2_link at 114.70259946949604: scheduling event type 0 for r1_r2_link with
 u: r1_r2_link at 114.70259946949604: event type 102 completed service
 u: r1_r2_link at 114.70259946949604: waiting for an event
 u: r1_r2_link at 114.71259946949604: scheduling event type 102 for router1 with delay 0.0
-u: r1_r2_link at 114.71259946949604: event type 0 completed service
 u: router1 at 114.71259946949604: scheduling event type 102 for User_0_link with delay 0.0
-u: r1_r2_link at 114.71259946949604: waiting for an event
+u: r1_r2_link at 114.71259946949604: event type 0 completed service
 u: router1 at 114.71259946949604: waiting for an event
+u: r1_r2_link at 114.71259946949604: waiting for an event
 u: User_0_link at 114.71259946949604: scheduling event type 0 for User_0_link with delay 0.01
 u: User_0_link at 114.71259946949604: event type 102 completed service
 u: router1 at 114.71259946949604: scheduling event type 0 for router1 with delay 12.0
@@ -593,27 +591,27 @@ u: r1_r2_link at 120.21000000000001: scheduling event type 0 for r1_r2_link with
 u: r1_r2_link at 120.21000000000001: event type 102 completed service
 u: r1_r2_link at 120.21000000000001: waiting for an event
 u: r1_r2_link at 120.22000000000001: scheduling event type 102 for router2 with delay 0.0
-u: router2 at 120.22000000000001: scheduling event type 102 for Res_0_link with delay 0.0
 u: r1_r2_link at 120.22000000000001: event type 0 completed service
 u: r1_r2_link at 120.22000000000001: waiting for an event
+u: router2 at 120.22000000000001: scheduling event type 102 for Res_9_link with delay 0.0
 u: router2 at 120.22000000000001: waiting for an event
-u: Res_0_link at 120.22000000000001: scheduling event type 0 for Res_0_link with delay 0.01
-u: Res_0_link at 120.22000000000001: event type 102 completed service
-u: Res_0_link at 120.22000000000001: waiting for an event
 u: router2 at 120.22000000000001: scheduling event type 0 for router2 with delay 12.0
+u: Res_9_link at 120.22000000000001: scheduling event type 0 for Res_9_link with delay 0.01
+u: Res_9_link at 120.22000000000001: event type 102 completed service
+u: Res_9_link at 120.22000000000001: waiting for an event
 u: router2 at 120.22000000000001: waiting for an event
-u: Res_0_link at 120.23000000000002: scheduling event type 108 for Input_Res_0 with delay 0.0
-u: Res_0_link at 120.23000000000002: event type 0 completed service
-u: Res_0_link at 120.23000000000002: waiting for an event
-u: Input_Res_0 at 120.23000000000002: waiting for an event
-u: Output_Res_8 at 125.49259946949603: scheduling event type 102 for Res_8_link with delay 0.0
-u: Output_Res_8 at 125.49259946949603: waiting for an event
-u: Res_8_link at 125.49259946949603: scheduling event type 0 for Res_8_link with delay 0.01
-u: Res_8_link at 125.49259946949603: event type 102 completed service
-u: Res_8_link at 125.49259946949603: waiting for an event
-u: Res_8_link at 125.50259946949603: scheduling event type 102 for router2 with delay 0.0
-u: Res_8_link at 125.50259946949603: event type 0 completed service
-u: Res_8_link at 125.50259946949603: waiting for an event
+u: Res_9_link at 120.23000000000002: scheduling event type 108 for Input_Res_9 with delay 0.0
+u: Res_9_link at 120.23000000000002: event type 0 completed service
+u: Res_9_link at 120.23000000000002: waiting for an event
+u: Input_Res_9 at 120.23000000000002: waiting for an event
+u: Output_Res_1 at 125.49259946949603: scheduling event type 102 for Res_1_link with delay 0.0
+u: Output_Res_1 at 125.49259946949603: waiting for an event
+u: Res_1_link at 125.49259946949603: scheduling event type 0 for Res_1_link with delay 0.01
+u: Res_1_link at 125.49259946949603: event type 102 completed service
+u: Res_1_link at 125.49259946949603: waiting for an event
+u: Res_1_link at 125.50259946949603: scheduling event type 102 for router2 with delay 0.0
+u: Res_1_link at 125.50259946949603: event type 0 completed service
+u: Res_1_link at 125.50259946949603: waiting for an event
 u: router2 at 125.50259946949603: scheduling event type 0 for router2 with delay 0.4
 u: router2 at 125.50259946949603: waiting for an event
 u: router2 at 125.90259946949604: scheduling event type 102 for r1_r2_link with delay 0.0
@@ -675,16 +673,16 @@ u: r1_r2_link at 131.42: scheduling event type 102 for router2 with delay 0.0
 u: r1_r2_link at 131.42: event type 0 completed service
 u: r1_r2_link at 131.42: waiting for an event
 u: router2 at 131.42: waiting for an event
-u: router2 at 132.22000000000003: scheduling event type 102 for Res_0_link with delay 0.0
+u: router2 at 132.22000000000003: scheduling event type 102 for Res_9_link with delay 0.0
 u: router2 at 132.22000000000003: scheduling event type 0 for router2 with delay 12.0
 u: router2 at 132.22000000000003: waiting for an event
-u: Res_0_link at 132.22000000000003: scheduling event type 0 for Res_0_link with delay 0.01
-u: Res_0_link at 132.22000000000003: event type 102 completed service
-u: Res_0_link at 132.22000000000003: waiting for an event
-u: Res_0_link at 132.23000000000002: scheduling event type 108 for Input_Res_0 with delay 0.0
-u: Res_0_link at 132.23000000000002: event type 0 completed service
-u: Res_0_link at 132.23000000000002: waiting for an event
-u: Input_Res_0 at 132.23000000000002: waiting for an event
+u: Res_9_link at 132.22000000000003: scheduling event type 0 for Res_9_link with delay 0.01
+u: Res_9_link at 132.22000000000003: event type 102 completed service
+u: Res_9_link at 132.22000000000003: waiting for an event
+u: Res_9_link at 132.23000000000002: scheduling event type 108 for Input_Res_9 with delay 0.0
+u: Res_9_link at 132.23000000000002: event type 0 completed service
+u: Res_9_link at 132.23000000000002: waiting for an event
+u: Input_Res_9 at 132.23000000000002: waiting for an event
 u: Output_User_0 at 135.0: scheduling event type 102 for User_0_link with delay 0.0
 u: Output_User_0 at 135.0: scheduling event type 104 for Output_User_0 with delay 12.0
 u: Output_User_0 at 135.0: waiting for an event
@@ -748,18 +746,18 @@ u: User_0_link at 142.72259946949603: scheduling event type 108 for Input_User_0
 u: User_0_link at 142.72259946949603: event type 0 completed service
 u: User_0_link at 142.72259946949603: waiting for an event
 u: Input_User_0 at 142.72259946949603: waiting for an event
-u: router2 at 144.22000000000003: scheduling event type 102 for Res_0_link with delay 0.0
+u: router2 at 144.22000000000003: scheduling event type 102 for Res_9_link with delay 0.0
 u: router2 at 144.22000000000003: waiting for an event
-u: Res_0_link at 144.22000000000003: scheduling event type 0 for Res_0_link with delay 0.01
-u: Res_0_link at 144.22000000000003: event type 102 completed service
-u: Res_0_link at 144.22000000000003: waiting for an event
-u: Res_0_link at 144.23000000000002: scheduling event type 21 for Input_Res_0 with delay 0.0
-u: Res_0_link at 144.23000000000002: event type 0 completed service
-u: Res_0_link at 144.23000000000002: waiting for an event
-u: Input_Res_0 at 144.23000000000002: scheduling event type 21 for Res_0 with delay 0.0
-u: Input_Res_0 at 144.23000000000002: waiting for an event
-u: Res_0_TimeShared at 144.23000000000002: scheduling event type 0 for Res_0_TimeShared with delay 13.26259946949602
-u: Res_0 at 144.23000000000002: waiting for an event
+u: Res_9_link at 144.22000000000003: scheduling event type 0 for Res_9_link with delay 0.01
+u: Res_9_link at 144.22000000000003: event type 102 completed service
+u: Res_9_link at 144.22000000000003: waiting for an event
+u: Res_9_link at 144.23000000000002: scheduling event type 21 for Input_Res_9 with delay 0.0
+u: Res_9_link at 144.23000000000002: event type 0 completed service
+u: Res_9_link at 144.23000000000002: waiting for an event
+u: Input_Res_9 at 144.23000000000002: scheduling event type 21 for Res_9 with delay 0.0
+u: Input_Res_9 at 144.23000000000002: waiting for an event
+u: Res_9_TimeShared at 144.23000000000002: scheduling event type 0 for Res_9_TimeShared with delay 13.26259946949602
+u: Res_9 at 144.23000000000002: waiting for an event
 u: Output_User_0 at 147.0: scheduling event type 102 for User_0_link with delay 0.0
 u: Output_User_0 at 147.0: scheduling event type 104 for Output_User_0 with delay 12.0
 u: Output_User_0 at 147.0: waiting for an event
@@ -779,17 +777,17 @@ u: r1_r2_link at 148.20999999999998: waiting for an event
 u: r1_r2_link at 148.21999999999997: scheduling event type 102 for router2 with delay 0.0
 u: r1_r2_link at 148.21999999999997: event type 0 completed service
 u: r1_r2_link at 148.21999999999997: waiting for an event
-u: router2 at 148.21999999999997: scheduling event type 102 for Res_1_link with delay 0.0
+u: router2 at 148.21999999999997: scheduling event type 102 for Res_4_link with delay 0.0
 u: router2 at 148.21999999999997: waiting for an event
-u: Res_1_link at 148.21999999999997: scheduling event type 0 for Res_1_link with delay 0.01
-u: Res_1_link at 148.21999999999997: event type 102 completed service
-u: Res_1_link at 148.21999999999997: waiting for an event
+u: Res_4_link at 148.21999999999997: scheduling event type 0 for Res_4_link with delay 0.01
 u: router2 at 148.21999999999997: scheduling event type 0 for router2 with delay 12.0
+u: Res_4_link at 148.21999999999997: event type 102 completed service
+u: Res_4_link at 148.21999999999997: waiting for an event
 u: router2 at 148.21999999999997: waiting for an event
-u: Res_1_link at 148.22999999999996: scheduling event type 108 for Input_Res_1 with delay 0.0
-u: Res_1_link at 148.22999999999996: event type 0 completed service
-u: Res_1_link at 148.22999999999996: waiting for an event
-u: Input_Res_1 at 148.22999999999996: waiting for an event
+u: Res_4_link at 148.22999999999996: scheduling event type 108 for Input_Res_4 with delay 0.0
+u: Res_4_link at 148.22999999999996: event type 0 completed service
+u: Res_4_link at 148.22999999999996: waiting for an event
+u: Input_Res_4 at 148.22999999999996: waiting for an event
 u: Output_Res_5 at 153.49259946949604: scheduling event type 102 for Res_5_link with delay 0.0
 u: Output_Res_5 at 153.49259946949604: scheduling event type 104 for Output_Res_5 with delay 12.0
 u: Output_Res_5 at 153.49259946949604: waiting for an event
@@ -820,12 +818,12 @@ u: User_0_link at 154.72259946949603: scheduling event type 108 for Input_User_0
 u: User_0_link at 154.72259946949603: event type 0 completed service
 u: User_0_link at 154.72259946949603: waiting for an event
 u: Input_User_0 at 154.72259946949603: waiting for an event
-u: Res_0_TimeShared at 157.49259946949604: scheduling event type 20 for Output_Res_0 with delay 0.0
-u: Res_0_TimeShared at 157.49259946949604: scheduling event type 0 for Res_0_TimeShared with delay 0.0
-u: Res_0_TimeShared at 157.49259946949604: waiting for an event
-u: Res_0_TimeShared at 157.49259946949604: waiting for an event
-u: Output_Res_0 at 157.49259946949604: scheduling event type 104 for Output_Res_0 with delay 12.0
-u: Output_Res_0 at 157.49259946949604: waiting for an event
+u: Res_9_TimeShared at 157.49259946949604: scheduling event type 20 for Output_Res_9 with delay 0.0
+u: Res_9_TimeShared at 157.49259946949604: scheduling event type 0 for Res_9_TimeShared with delay 0.0
+u: Res_9_TimeShared at 157.49259946949604: waiting for an event
+u: Output_Res_9 at 157.49259946949604: scheduling event type 104 for Output_Res_9 with delay 12.0
+u: Res_9_TimeShared at 157.49259946949604: waiting for an event
+u: Output_Res_9 at 157.49259946949604: waiting for an event
 u: Output_User_0 at 159.0: scheduling event type 102 for User_0_link with delay 0.0
 u: Output_User_0 at 159.0: scheduling event type 104 for Output_User_0 with delay 12.0
 u: Output_User_0 at 159.0: waiting for an event
@@ -844,18 +842,18 @@ u: r1_r2_link at 160.20999999999998: event type 102 completed service
 u: r1_r2_link at 160.20999999999998: waiting for an event
 u: r1_r2_link at 160.21999999999997: scheduling event type 102 for router2 with delay 0.0
 u: r1_r2_link at 160.21999999999997: event type 0 completed service
-u: router2 at 160.21999999999997: scheduling event type 102 for Res_1_link with delay 0.0
+u: router2 at 160.21999999999997: scheduling event type 102 for Res_4_link with delay 0.0
 u: r1_r2_link at 160.21999999999997: waiting for an event
 u: router2 at 160.21999999999997: waiting for an event
-u: Res_1_link at 160.21999999999997: scheduling event type 0 for Res_1_link with delay 0.01
+u: Res_4_link at 160.21999999999997: scheduling event type 0 for Res_4_link with delay 0.01
 u: router2 at 160.21999999999997: scheduling event type 0 for router2 with delay 12.0
-u: Res_1_link at 160.21999999999997: event type 102 completed service
-u: Res_1_link at 160.21999999999997: waiting for an event
+u: Res_4_link at 160.21999999999997: event type 102 completed service
+u: Res_4_link at 160.21999999999997: waiting for an event
 u: router2 at 160.21999999999997: waiting for an event
-u: Res_1_link at 160.22999999999996: scheduling event type 108 for Input_Res_1 with delay 0.0
-u: Res_1_link at 160.22999999999996: event type 0 completed service
-u: Res_1_link at 160.22999999999996: waiting for an event
-u: Input_Res_1 at 160.22999999999996: waiting for an event
+u: Res_4_link at 160.22999999999996: scheduling event type 108 for Input_Res_4 with delay 0.0
+u: Res_4_link at 160.22999999999996: event type 0 completed service
+u: Res_4_link at 160.22999999999996: waiting for an event
+u: Input_Res_4 at 160.22999999999996: waiting for an event
 u: Output_Res_5 at 165.49259946949604: scheduling event type 102 for Res_5_link with delay 0.0
 u: Output_Res_5 at 165.49259946949604: waiting for an event
 u: Res_5_link at 165.49259946949604: scheduling event type 0 for Res_5_link with delay 0.01
@@ -885,15 +883,15 @@ u: User_0_link at 166.72259946949603: scheduling event type 108 for Input_User_0
 u: User_0_link at 166.72259946949603: event type 0 completed service
 u: User_0_link at 166.72259946949603: waiting for an event
 u: Input_User_0 at 166.72259946949603: waiting for an event
-u: Output_Res_0 at 169.49259946949604: scheduling event type 102 for Res_0_link with delay 0.0
-u: Output_Res_0 at 169.49259946949604: scheduling event type 104 for Output_Res_0 with delay 12.0
-u: Output_Res_0 at 169.49259946949604: waiting for an event
-u: Res_0_link at 169.49259946949604: scheduling event type 0 for Res_0_link with delay 0.01
-u: Res_0_link at 169.49259946949604: event type 102 completed service
-u: Res_0_link at 169.49259946949604: waiting for an event
-u: Res_0_link at 169.50259946949603: scheduling event type 102 for router2 with delay 0.0
-u: Res_0_link at 169.50259946949603: event type 0 completed service
-u: Res_0_link at 169.50259946949603: waiting for an event
+u: Output_Res_9 at 169.49259946949604: scheduling event type 102 for Res_9_link with delay 0.0
+u: Output_Res_9 at 169.49259946949604: scheduling event type 104 for Output_Res_9 with delay 12.0
+u: Output_Res_9 at 169.49259946949604: waiting for an event
+u: Res_9_link at 169.49259946949604: scheduling event type 0 for Res_9_link with delay 0.01
+u: Res_9_link at 169.49259946949604: event type 102 completed service
+u: Res_9_link at 169.49259946949604: waiting for an event
+u: Res_9_link at 169.50259946949603: scheduling event type 102 for router2 with delay 0.0
+u: Res_9_link at 169.50259946949603: event type 0 completed service
+u: Res_9_link at 169.50259946949603: waiting for an event
 u: router2 at 169.50259946949603: scheduling event type 0 for router2 with delay 1.2
 u: router2 at 169.50259946949603: waiting for an event
 u: router2 at 170.70259946949602: scheduling event type 102 for r1_r2_link with delay 0.0
@@ -906,7 +904,6 @@ u: r1_r2_link at 170.712599469496: event type 0 completed service
 u: r1_r2_link at 170.712599469496: waiting for an event
 u: router1 at 170.712599469496: waiting for an event
 u: Output_User_0 at 171.0: scheduling event type 102 for User_0_link with delay 0.0
-u: Output_User_0 at 171.0: scheduling event type 104 for Output_User_0 with delay 4.0
 u: Output_User_0 at 171.0: waiting for an event
 u: User_0_link at 171.0: scheduling event type 0 for User_0_link with delay 0.01
 u: User_0_link at 171.0: event type 102 completed service
@@ -925,37 +922,16 @@ u: r1_r2_link at 171.42: scheduling event type 102 for router2 with delay 0.0
 u: r1_r2_link at 171.42: event type 0 completed service
 u: r1_r2_link at 171.42: waiting for an event
 u: router2 at 171.42: waiting for an event
-u: router2 at 172.21999999999997: scheduling event type 102 for Res_1_link with delay 0.0
+u: router2 at 172.21999999999997: scheduling event type 102 for Res_4_link with delay 0.0
 u: router2 at 172.21999999999997: scheduling event type 0 for router2 with delay 12.0
 u: router2 at 172.21999999999997: waiting for an event
-u: Res_1_link at 172.21999999999997: scheduling event type 0 for Res_1_link with delay 0.01
-u: Res_1_link at 172.21999999999997: event type 102 completed service
-u: Res_1_link at 172.21999999999997: waiting for an event
-u: Res_1_link at 172.22999999999996: scheduling event type 108 for Input_Res_1 with delay 0.0
-u: Res_1_link at 172.22999999999996: event type 0 completed service
-u: Res_1_link at 172.22999999999996: waiting for an event
-u: Input_Res_1 at 172.22999999999996: waiting for an event
-u: Output_User_0 at 175.0: scheduling event type 102 for User_0_link with delay 0.0
-u: Output_User_0 at 175.0: scheduling event type 104 for Output_User_0 with delay 12.0
-u: Output_User_0 at 175.0: waiting for an event
-u: User_0_link at 175.0: scheduling event type 0 for User_0_link with delay 0.01
-u: User_0_link at 175.0: event type 102 completed service
-u: User_0_link at 175.0: waiting for an event
-u: User_0_link at 175.01: scheduling event type 102 for router1 with delay 0.0
-u: User_0_link at 175.01: event type 0 completed service
-u: User_0_link at 175.01: waiting for an event
-u: router1 at 175.01: scheduling event type 0 for router1 with delay 1.2
-u: router1 at 175.01: waiting for an event
-u: router1 at 176.20999999999998: scheduling event type 102 for r1_r2_link with delay 0.0
-u: router1 at 176.20999999999998: waiting for an event
-u: r1_r2_link at 176.20999999999998: scheduling event type 0 for r1_r2_link with delay 0.01
-u: r1_r2_link at 176.20999999999998: event type 102 completed service
-u: r1_r2_link at 176.20999999999998: waiting for an event
-u: r1_r2_link at 176.21999999999997: scheduling event type 102 for router2 with delay 0.0
-u: r1_r2_link at 176.21999999999997: event type 0 completed service
-u: r1_r2_link at 176.21999999999997: waiting for an event
-u: router2 at 176.21999999999997: scheduling event type 0 for router2 with delay 12.0
-u: router2 at 176.21999999999997: waiting for an event
+u: Res_4_link at 172.21999999999997: scheduling event type 0 for Res_4_link with delay 0.01
+u: Res_4_link at 172.21999999999997: event type 102 completed service
+u: Res_4_link at 172.21999999999997: waiting for an event
+u: Res_4_link at 172.22999999999996: scheduling event type 108 for Input_Res_4 with delay 0.0
+u: Res_4_link at 172.22999999999996: event type 0 completed service
+u: Res_4_link at 172.22999999999996: waiting for an event
+u: Input_Res_4 at 172.22999999999996: waiting for an event
 u: router1 at 178.71259946949604: scheduling event type 102 for User_0_link with delay 0.0
 u: router1 at 178.71259946949604: scheduling event type 0 for router1 with delay 4.0
 u: router1 at 178.71259946949604: waiting for an event
@@ -968,15 +944,15 @@ u: User_0_link at 178.72259946949603: waiting for an event
 u: Input_User_0 at 178.72259946949603: scheduling event type 20 for User_0 with delay 0.0
 u: Input_User_0 at 178.72259946949603: waiting for an event
 u: User_0 at 178.72259946949603: waiting for an event
-u: Output_Res_0 at 181.49259946949604: scheduling event type 102 for Res_0_link with delay 0.0
-u: Output_Res_0 at 181.49259946949604: scheduling event type 104 for Output_Res_0 with delay 12.0
-u: Output_Res_0 at 181.49259946949604: waiting for an event
-u: Res_0_link at 181.49259946949604: scheduling event type 0 for Res_0_link with delay 0.01
-u: Res_0_link at 181.49259946949604: event type 102 completed service
-u: Res_0_link at 181.49259946949604: waiting for an event
-u: Res_0_link at 181.50259946949603: scheduling event type 102 for router2 with delay 0.0
-u: Res_0_link at 181.50259946949603: event type 0 completed service
-u: Res_0_link at 181.50259946949603: waiting for an event
+u: Output_Res_9 at 181.49259946949604: scheduling event type 102 for Res_9_link with delay 0.0
+u: Output_Res_9 at 181.49259946949604: scheduling event type 104 for Output_Res_9 with delay 12.0
+u: Output_Res_9 at 181.49259946949604: waiting for an event
+u: Res_9_link at 181.49259946949604: scheduling event type 0 for Res_9_link with delay 0.01
+u: Res_9_link at 181.49259946949604: event type 102 completed service
+u: Res_9_link at 181.49259946949604: waiting for an event
+u: Res_9_link at 181.50259946949603: scheduling event type 102 for router2 with delay 0.0
+u: Res_9_link at 181.50259946949603: event type 0 completed service
+u: Res_9_link at 181.50259946949603: waiting for an event
 u: router2 at 181.50259946949603: scheduling event type 0 for router2 with delay 1.2
 u: router2 at 181.50259946949603: waiting for an event
 u: router2 at 182.70259946949602: scheduling event type 102 for r1_r2_link with delay 0.0
@@ -998,57 +974,27 @@ u: User_0_link at 182.72259946949603: scheduling event type 108 for Input_User_0
 u: User_0_link at 182.72259946949603: event type 0 completed service
 u: User_0_link at 182.72259946949603: waiting for an event
 u: Input_User_0 at 182.72259946949603: waiting for an event
-u: router2 at 184.21999999999997: scheduling event type 102 for Res_1_link with delay 0.0
+u: router2 at 184.21999999999997: scheduling event type 102 for Res_4_link with delay 0.0
 u: router2 at 184.21999999999997: waiting for an event
-u: Res_1_link at 184.21999999999997: scheduling event type 0 for Res_1_link with delay 0.01
-u: Res_1_link at 184.21999999999997: event type 102 completed service
-u: Res_1_link at 184.21999999999997: waiting for an event
-u: Res_1_link at 184.22999999999996: scheduling event type 21 for Input_Res_1 with delay 0.0
-u: Res_1_link at 184.22999999999996: event type 0 completed service
-u: Res_1_link at 184.22999999999996: waiting for an event
-u: Input_Res_1 at 184.22999999999996: scheduling event type 21 for Res_1 with delay 0.0
-u: Input_Res_1 at 184.22999999999996: waiting for an event
-u: Res_1_TimeShared at 184.22999999999996: scheduling event type 0 for Res_1_TimeShared with delay 13.26259946949602
-u: Res_1 at 184.22999999999996: waiting for an event
-u: Output_User_0 at 187.0: scheduling event type 102 for User_0_link with delay 0.0
-u: Output_User_0 at 187.0: scheduling event type 104 for Output_User_0 with delay 12.0
-u: Output_User_0 at 187.0: waiting for an event
-u: User_0_link at 187.0: scheduling event type 0 for User_0_link with delay 0.01
-u: User_0_link at 187.0: event type 102 completed service
-u: User_0_link at 187.0: waiting for an event
-u: User_0_link at 187.01: scheduling event type 102 for router1 with delay 0.0
-u: User_0_link at 187.01: event type 0 completed service
-u: User_0_link at 187.01: waiting for an event
-u: router1 at 187.01: scheduling event type 0 for router1 with delay 1.2
-u: router1 at 187.01: waiting for an event
-u: router1 at 188.20999999999998: scheduling event type 102 for r1_r2_link with delay 0.0
-u: router1 at 188.20999999999998: waiting for an event
-u: r1_r2_link at 188.20999999999998: scheduling event type 0 for r1_r2_link with delay 0.01
-u: r1_r2_link at 188.20999999999998: event type 102 completed service
-u: r1_r2_link at 188.20999999999998: waiting for an event
-u: r1_r2_link at 188.21999999999997: scheduling event type 102 for router2 with delay 0.0
-u: r1_r2_link at 188.21999999999997: event type 0 completed service
-u: r1_r2_link at 188.21999999999997: waiting for an event
-u: router2 at 188.21999999999997: scheduling event type 102 for Res_4_link with delay 0.0
-u: router2 at 188.21999999999997: waiting for an event
-u: Res_4_link at 188.21999999999997: scheduling event type 0 for Res_4_link with delay 0.01
-u: router2 at 188.21999999999997: scheduling event type 0 for router2 with delay 12.0
-u: Res_4_link at 188.21999999999997: event type 102 completed service
-u: Res_4_link at 188.21999999999997: waiting for an event
-u: router2 at 188.21999999999997: waiting for an event
-u: Res_4_link at 188.22999999999996: scheduling event type 108 for Input_Res_4 with delay 0.0
-u: Res_4_link at 188.22999999999996: event type 0 completed service
-u: Res_4_link at 188.22999999999996: waiting for an event
-u: Input_Res_4 at 188.22999999999996: waiting for an event
-u: Output_Res_0 at 193.49259946949604: scheduling event type 102 for Res_0_link with delay 0.0
-u: Output_Res_0 at 193.49259946949604: scheduling event type 104 for Output_Res_0 with delay 12.0
-u: Output_Res_0 at 193.49259946949604: waiting for an event
-u: Res_0_link at 193.49259946949604: scheduling event type 0 for Res_0_link with delay 0.01
-u: Res_0_link at 193.49259946949604: event type 102 completed service
-u: Res_0_link at 193.49259946949604: waiting for an event
-u: Res_0_link at 193.50259946949603: scheduling event type 102 for router2 with delay 0.0
-u: Res_0_link at 193.50259946949603: event type 0 completed service
-u: Res_0_link at 193.50259946949603: waiting for an event
+u: Res_4_link at 184.21999999999997: scheduling event type 0 for Res_4_link with delay 0.01
+u: Res_4_link at 184.21999999999997: event type 102 completed service
+u: Res_4_link at 184.21999999999997: waiting for an event
+u: Res_4_link at 184.22999999999996: scheduling event type 21 for Input_Res_4 with delay 0.0
+u: Res_4_link at 184.22999999999996: event type 0 completed service
+u: Res_4_link at 184.22999999999996: waiting for an event
+u: Input_Res_4 at 184.22999999999996: scheduling event type 21 for Res_4 with delay 0.0
+u: Input_Res_4 at 184.22999999999996: waiting for an event
+u: Res_4_TimeShared at 184.22999999999996: scheduling event type 0 for Res_4_TimeShared with delay 13.26259946949602
+u: Res_4 at 184.22999999999996: waiting for an event
+u: Output_Res_9 at 193.49259946949604: scheduling event type 102 for Res_9_link with delay 0.0
+u: Output_Res_9 at 193.49259946949604: scheduling event type 104 for Output_Res_9 with delay 12.0
+u: Output_Res_9 at 193.49259946949604: waiting for an event
+u: Res_9_link at 193.49259946949604: scheduling event type 0 for Res_9_link with delay 0.01
+u: Res_9_link at 193.49259946949604: event type 102 completed service
+u: Res_9_link at 193.49259946949604: waiting for an event
+u: Res_9_link at 193.50259946949603: scheduling event type 102 for router2 with delay 0.0
+u: Res_9_link at 193.50259946949603: event type 0 completed service
+u: Res_9_link at 193.50259946949603: waiting for an event
 u: router2 at 193.50259946949603: scheduling event type 0 for router2 with delay 1.2
 u: router2 at 193.50259946949603: waiting for an event
 u: router2 at 194.70259946949602: scheduling event type 102 for r1_r2_link with delay 0.0
@@ -1070,50 +1016,20 @@ u: User_0_link at 194.72259946949603: scheduling event type 108 for Input_User_0
 u: User_0_link at 194.72259946949603: event type 0 completed service
 u: User_0_link at 194.72259946949603: waiting for an event
 u: Input_User_0 at 194.72259946949603: waiting for an event
-u: Res_1_TimeShared at 197.49259946949599: scheduling event type 20 for Output_Res_1 with delay 0.0
-u: Res_1_TimeShared at 197.49259946949599: scheduling event type 0 for Res_1_TimeShared with delay 0.0
-u: Res_1_TimeShared at 197.49259946949599: waiting for an event
-u: Res_1_TimeShared at 197.49259946949599: waiting for an event
-u: Output_Res_1 at 197.49259946949599: scheduling event type 104 for Output_Res_1 with delay 12.0
-u: Output_Res_1 at 197.49259946949599: waiting for an event
-u: Output_User_0 at 199.0: scheduling event type 102 for User_0_link with delay 0.0
-u: Output_User_0 at 199.0: scheduling event type 104 for Output_User_0 with delay 12.0
-u: Output_User_0 at 199.0: waiting for an event
-u: User_0_link at 199.0: scheduling event type 0 for User_0_link with delay 0.01
-u: User_0_link at 199.0: event type 102 completed service
-u: User_0_link at 199.0: waiting for an event
-u: User_0_link at 199.01: scheduling event type 102 for router1 with delay 0.0
-u: User_0_link at 199.01: event type 0 completed service
-u: User_0_link at 199.01: waiting for an event
-u: router1 at 199.01: scheduling event type 0 for router1 with delay 1.2
-u: router1 at 199.01: waiting for an event
-u: router1 at 200.20999999999998: scheduling event type 102 for r1_r2_link with delay 0.0
-u: router1 at 200.20999999999998: waiting for an event
-u: r1_r2_link at 200.20999999999998: scheduling event type 0 for r1_r2_link with delay 0.01
-u: r1_r2_link at 200.20999999999998: event type 102 completed service
-u: r1_r2_link at 200.20999999999998: waiting for an event
-u: r1_r2_link at 200.21999999999997: scheduling event type 102 for router2 with delay 0.0
-u: r1_r2_link at 200.21999999999997: event type 0 completed service
-u: r1_r2_link at 200.21999999999997: waiting for an event
-u: router2 at 200.21999999999997: scheduling event type 102 for Res_4_link with delay 0.0
-u: router2 at 200.21999999999997: waiting for an event
-u: Res_4_link at 200.21999999999997: scheduling event type 0 for Res_4_link with delay 0.01
-u: Res_4_link at 200.21999999999997: event type 102 completed service
-u: router2 at 200.21999999999997: scheduling event type 0 for router2 with delay 12.0
-u: Res_4_link at 200.21999999999997: waiting for an event
-u: router2 at 200.21999999999997: waiting for an event
-u: Res_4_link at 200.22999999999996: scheduling event type 108 for Input_Res_4 with delay 0.0
-u: Res_4_link at 200.22999999999996: event type 0 completed service
-u: Res_4_link at 200.22999999999996: waiting for an event
-u: Input_Res_4 at 200.22999999999996: waiting for an event
-u: Output_Res_0 at 205.49259946949604: scheduling event type 102 for Res_0_link with delay 0.0
-u: Output_Res_0 at 205.49259946949604: waiting for an event
-u: Res_0_link at 205.49259946949604: scheduling event type 0 for Res_0_link with delay 0.01
-u: Res_0_link at 205.49259946949604: event type 102 completed service
-u: Res_0_link at 205.49259946949604: waiting for an event
-u: Res_0_link at 205.50259946949603: scheduling event type 102 for router2 with delay 0.0
-u: Res_0_link at 205.50259946949603: event type 0 completed service
-u: Res_0_link at 205.50259946949603: waiting for an event
+u: Res_4_TimeShared at 197.49259946949599: scheduling event type 20 for Output_Res_4 with delay 0.0
+u: Res_4_TimeShared at 197.49259946949599: scheduling event type 0 for Res_4_TimeShared with delay 0.0
+u: Res_4_TimeShared at 197.49259946949599: waiting for an event
+u: Res_4_TimeShared at 197.49259946949599: waiting for an event
+u: Output_Res_4 at 197.49259946949599: scheduling event type 104 for Output_Res_4 with delay 12.0
+u: Output_Res_4 at 197.49259946949599: waiting for an event
+u: Output_Res_9 at 205.49259946949604: scheduling event type 102 for Res_9_link with delay 0.0
+u: Output_Res_9 at 205.49259946949604: waiting for an event
+u: Res_9_link at 205.49259946949604: scheduling event type 0 for Res_9_link with delay 0.01
+u: Res_9_link at 205.49259946949604: event type 102 completed service
+u: Res_9_link at 205.49259946949604: waiting for an event
+u: Res_9_link at 205.50259946949603: scheduling event type 102 for router2 with delay 0.0
+u: Res_9_link at 205.50259946949603: event type 0 completed service
+u: Res_9_link at 205.50259946949603: waiting for an event
 u: router2 at 205.50259946949603: scheduling event type 0 for router2 with delay 0.4
 u: router2 at 205.50259946949603: waiting for an event
 u: router2 at 205.90259946949604: scheduling event type 102 for r1_r2_link with delay 0.0
@@ -1135,15 +1051,15 @@ u: User_0_link at 206.72259946949603: scheduling event type 108 for Input_User_0
 u: User_0_link at 206.72259946949603: event type 0 completed service
 u: User_0_link at 206.72259946949603: waiting for an event
 u: Input_User_0 at 206.72259946949603: waiting for an event
-u: Output_Res_1 at 209.49259946949599: scheduling event type 102 for Res_1_link with delay 0.0
-u: Output_Res_1 at 209.49259946949599: scheduling event type 104 for Output_Res_1 with delay 12.0
-u: Output_Res_1 at 209.49259946949599: waiting for an event
-u: Res_1_link at 209.49259946949599: scheduling event type 0 for Res_1_link with delay 0.01
-u: Res_1_link at 209.49259946949599: event type 102 completed service
-u: Res_1_link at 209.49259946949599: waiting for an event
-u: Res_1_link at 209.50259946949598: scheduling event type 102 for router2 with delay 0.0
-u: Res_1_link at 209.50259946949598: event type 0 completed service
-u: Res_1_link at 209.50259946949598: waiting for an event
+u: Output_Res_4 at 209.49259946949599: scheduling event type 102 for Res_4_link with delay 0.0
+u: Output_Res_4 at 209.49259946949599: scheduling event type 104 for Output_Res_4 with delay 12.0
+u: Output_Res_4 at 209.49259946949599: waiting for an event
+u: Res_4_link at 209.49259946949599: scheduling event type 0 for Res_4_link with delay 0.01
+u: Res_4_link at 209.49259946949599: event type 102 completed service
+u: Res_4_link at 209.49259946949599: waiting for an event
+u: Res_4_link at 209.50259946949598: scheduling event type 102 for router2 with delay 0.0
+u: Res_4_link at 209.50259946949598: event type 0 completed service
+u: Res_4_link at 209.50259946949598: waiting for an event
 u: router2 at 209.50259946949598: scheduling event type 0 for router2 with delay 1.2
 u: router2 at 209.50259946949598: waiting for an event
 u: router2 at 210.70259946949596: scheduling event type 102 for r1_r2_link with delay 0.0
@@ -1155,35 +1071,6 @@ u: r1_r2_link at 210.71259946949596: scheduling event type 102 for router1 with 
 u: r1_r2_link at 210.71259946949596: event type 0 completed service
 u: r1_r2_link at 210.71259946949596: waiting for an event
 u: router1 at 210.71259946949596: waiting for an event
-u: Output_User_0 at 211.0: scheduling event type 102 for User_0_link with delay 0.0
-u: Output_User_0 at 211.0: waiting for an event
-u: User_0_link at 211.0: scheduling event type 0 for User_0_link with delay 0.01
-u: User_0_link at 211.0: event type 102 completed service
-u: User_0_link at 211.0: waiting for an event
-u: User_0_link at 211.01: scheduling event type 102 for router1 with delay 0.0
-u: User_0_link at 211.01: event type 0 completed service
-u: User_0_link at 211.01: waiting for an event
-u: router1 at 211.01: scheduling event type 0 for router1 with delay 0.4
-u: router1 at 211.01: waiting for an event
-u: router1 at 211.41: scheduling event type 102 for r1_r2_link with delay 0.0
-u: router1 at 211.41: waiting for an event
-u: r1_r2_link at 211.41: scheduling event type 0 for r1_r2_link with delay 0.01
-u: r1_r2_link at 211.41: event type 102 completed service
-u: r1_r2_link at 211.41: waiting for an event
-u: r1_r2_link at 211.42: scheduling event type 102 for router2 with delay 0.0
-u: r1_r2_link at 211.42: event type 0 completed service
-u: r1_r2_link at 211.42: waiting for an event
-u: router2 at 211.42: waiting for an event
-u: router2 at 212.21999999999997: scheduling event type 102 for Res_4_link with delay 0.0
-u: router2 at 212.21999999999997: scheduling event type 0 for router2 with delay 12.0
-u: router2 at 212.21999999999997: waiting for an event
-u: Res_4_link at 212.21999999999997: scheduling event type 0 for Res_4_link with delay 0.01
-u: Res_4_link at 212.21999999999997: event type 102 completed service
-u: Res_4_link at 212.21999999999997: waiting for an event
-u: Res_4_link at 212.22999999999996: scheduling event type 108 for Input_Res_4 with delay 0.0
-u: Res_4_link at 212.22999999999996: event type 0 completed service
-u: Res_4_link at 212.22999999999996: waiting for an event
-u: Input_Res_4 at 212.22999999999996: waiting for an event
 u: router1 at 218.71259946949604: scheduling event type 102 for User_0_link with delay 0.0
 u: router1 at 218.71259946949604: scheduling event type 0 for router1 with delay 4.0
 u: router1 at 218.71259946949604: waiting for an event
@@ -1196,15 +1083,15 @@ u: User_0_link at 218.72259946949603: waiting for an event
 u: Input_User_0 at 218.72259946949603: scheduling event type 20 for User_0 with delay 0.0
 u: Input_User_0 at 218.72259946949603: waiting for an event
 u: User_0 at 218.72259946949603: waiting for an event
-u: Output_Res_1 at 221.49259946949599: scheduling event type 102 for Res_1_link with delay 0.0
-u: Output_Res_1 at 221.49259946949599: scheduling event type 104 for Output_Res_1 with delay 12.0
-u: Output_Res_1 at 221.49259946949599: waiting for an event
-u: Res_1_link at 221.49259946949599: scheduling event type 0 for Res_1_link with delay 0.01
-u: Res_1_link at 221.49259946949599: event type 102 completed service
-u: Res_1_link at 221.49259946949599: waiting for an event
-u: Res_1_link at 221.50259946949598: scheduling event type 102 for router2 with delay 0.0
-u: Res_1_link at 221.50259946949598: event type 0 completed service
-u: Res_1_link at 221.50259946949598: waiting for an event
+u: Output_Res_4 at 221.49259946949599: scheduling event type 102 for Res_4_link with delay 0.0
+u: Output_Res_4 at 221.49259946949599: scheduling event type 104 for Output_Res_4 with delay 12.0
+u: Output_Res_4 at 221.49259946949599: waiting for an event
+u: Res_4_link at 221.49259946949599: scheduling event type 0 for Res_4_link with delay 0.01
+u: Res_4_link at 221.49259946949599: event type 102 completed service
+u: Res_4_link at 221.49259946949599: waiting for an event
+u: Res_4_link at 221.50259946949598: scheduling event type 102 for router2 with delay 0.0
+u: Res_4_link at 221.50259946949598: event type 0 completed service
+u: Res_4_link at 221.50259946949598: waiting for an event
 u: router2 at 221.50259946949598: scheduling event type 0 for router2 with delay 1.2
 u: router2 at 221.50259946949598: waiting for an event
 u: router2 at 222.70259946949596: scheduling event type 102 for r1_r2_link with delay 0.0
@@ -1226,27 +1113,15 @@ u: User_0_link at 222.72259946949603: scheduling event type 108 for Input_User_0
 u: User_0_link at 222.72259946949603: event type 0 completed service
 u: User_0_link at 222.72259946949603: waiting for an event
 u: Input_User_0 at 222.72259946949603: waiting for an event
-u: router2 at 224.21999999999997: scheduling event type 102 for Res_4_link with delay 0.0
-u: router2 at 224.21999999999997: waiting for an event
-u: Res_4_link at 224.21999999999997: scheduling event type 0 for Res_4_link with delay 0.01
-u: Res_4_link at 224.21999999999997: event type 102 completed service
-u: Res_4_link at 224.21999999999997: waiting for an event
-u: Res_4_link at 224.22999999999996: scheduling event type 21 for Input_Res_4 with delay 0.0
-u: Res_4_link at 224.22999999999996: event type 0 completed service
-u: Res_4_link at 224.22999999999996: waiting for an event
-u: Input_Res_4 at 224.22999999999996: scheduling event type 21 for Res_4 with delay 0.0
-u: Input_Res_4 at 224.22999999999996: waiting for an event
-u: Res_4_TimeShared at 224.22999999999996: scheduling event type 0 for Res_4_TimeShared with delay 13.26259946949602
-u: Res_4 at 224.22999999999996: waiting for an event
-u: Output_Res_1 at 233.49259946949599: scheduling event type 102 for Res_1_link with delay 0.0
-u: Output_Res_1 at 233.49259946949599: scheduling event type 104 for Output_Res_1 with delay 12.0
-u: Output_Res_1 at 233.49259946949599: waiting for an event
-u: Res_1_link at 233.49259946949599: scheduling event type 0 for Res_1_link with delay 0.01
-u: Res_1_link at 233.49259946949599: event type 102 completed service
-u: Res_1_link at 233.49259946949599: waiting for an event
-u: Res_1_link at 233.50259946949598: scheduling event type 102 for router2 with delay 0.0
-u: Res_1_link at 233.50259946949598: event type 0 completed service
-u: Res_1_link at 233.50259946949598: waiting for an event
+u: Output_Res_4 at 233.49259946949599: scheduling event type 102 for Res_4_link with delay 0.0
+u: Output_Res_4 at 233.49259946949599: scheduling event type 104 for Output_Res_4 with delay 12.0
+u: Output_Res_4 at 233.49259946949599: waiting for an event
+u: Res_4_link at 233.49259946949599: scheduling event type 0 for Res_4_link with delay 0.01
+u: Res_4_link at 233.49259946949599: event type 102 completed service
+u: Res_4_link at 233.49259946949599: waiting for an event
+u: Res_4_link at 233.50259946949598: scheduling event type 102 for router2 with delay 0.0
+u: Res_4_link at 233.50259946949598: event type 0 completed service
+u: Res_4_link at 233.50259946949598: waiting for an event
 u: router2 at 233.50259946949598: scheduling event type 0 for router2 with delay 1.2
 u: router2 at 233.50259946949598: waiting for an event
 u: router2 at 234.70259946949596: scheduling event type 102 for r1_r2_link with delay 0.0
@@ -1268,20 +1143,14 @@ u: User_0_link at 234.72259946949603: scheduling event type 108 for Input_User_0
 u: User_0_link at 234.72259946949603: event type 0 completed service
 u: User_0_link at 234.72259946949603: waiting for an event
 u: Input_User_0 at 234.72259946949603: waiting for an event
-u: Res_4_TimeShared at 237.49259946949599: scheduling event type 20 for Output_Res_4 with delay 0.0
-u: Res_4_TimeShared at 237.49259946949599: scheduling event type 0 for Res_4_TimeShared with delay 0.0
-u: Res_4_TimeShared at 237.49259946949599: waiting for an event
-u: Res_4_TimeShared at 237.49259946949599: waiting for an event
-u: Output_Res_4 at 237.49259946949599: scheduling event type 104 for Output_Res_4 with delay 12.0
-u: Output_Res_4 at 237.49259946949599: waiting for an event
-u: Output_Res_1 at 245.49259946949599: scheduling event type 102 for Res_1_link with delay 0.0
-u: Output_Res_1 at 245.49259946949599: waiting for an event
-u: Res_1_link at 245.49259946949599: scheduling event type 0 for Res_1_link with delay 0.01
-u: Res_1_link at 245.49259946949599: event type 102 completed service
-u: Res_1_link at 245.49259946949599: waiting for an event
-u: Res_1_link at 245.50259946949598: scheduling event type 102 for router2 with delay 0.0
-u: Res_1_link at 245.50259946949598: event type 0 completed service
-u: Res_1_link at 245.50259946949598: waiting for an event
+u: Output_Res_4 at 245.49259946949599: scheduling event type 102 for Res_4_link with delay 0.0
+u: Output_Res_4 at 245.49259946949599: waiting for an event
+u: Res_4_link at 245.49259946949599: scheduling event type 0 for Res_4_link with delay 0.01
+u: Res_4_link at 245.49259946949599: event type 102 completed service
+u: Res_4_link at 245.49259946949599: waiting for an event
+u: Res_4_link at 245.50259946949598: scheduling event type 102 for router2 with delay 0.0
+u: Res_4_link at 245.50259946949598: event type 0 completed service
+u: Res_4_link at 245.50259946949598: waiting for an event
 u: router2 at 245.50259946949598: scheduling event type 0 for router2 with delay 0.4
 u: router2 at 245.50259946949598: waiting for an event
 u: router2 at 245.90259946949598: scheduling event type 102 for r1_r2_link with delay 0.0
@@ -1303,28 +1172,7 @@ u: User_0_link at 246.72259946949603: scheduling event type 108 for Input_User_0
 u: User_0_link at 246.72259946949603: event type 0 completed service
 u: User_0_link at 246.72259946949603: waiting for an event
 u: Input_User_0 at 246.72259946949603: waiting for an event
-u: Output_Res_4 at 249.49259946949599: scheduling event type 102 for Res_4_link with delay 0.0
-u: Output_Res_4 at 249.49259946949599: scheduling event type 104 for Output_Res_4 with delay 12.0
-u: Output_Res_4 at 249.49259946949599: waiting for an event
-u: Res_4_link at 249.49259946949599: scheduling event type 0 for Res_4_link with delay 0.01
-u: Res_4_link at 249.49259946949599: event type 102 completed service
-u: Res_4_link at 249.49259946949599: waiting for an event
-u: Res_4_link at 249.50259946949598: scheduling event type 102 for router2 with delay 0.0
-u: Res_4_link at 249.50259946949598: event type 0 completed service
-u: Res_4_link at 249.50259946949598: waiting for an event
-u: router2 at 249.50259946949598: scheduling event type 0 for router2 with delay 1.2
-u: router2 at 249.50259946949598: waiting for an event
-u: router2 at 250.70259946949596: scheduling event type 102 for r1_r2_link with delay 0.0
-u: router2 at 250.70259946949596: waiting for an event
-u: r1_r2_link at 250.70259946949596: scheduling event type 0 for r1_r2_link with delay 0.01
-u: r1_r2_link at 250.70259946949596: event type 102 completed service
-u: r1_r2_link at 250.70259946949596: waiting for an event
-u: r1_r2_link at 250.71259946949596: scheduling event type 102 for router1 with delay 0.0
-u: r1_r2_link at 250.71259946949596: event type 0 completed service
-u: r1_r2_link at 250.71259946949596: waiting for an event
-u: router1 at 250.71259946949596: waiting for an event
 u: router1 at 258.712599469496: scheduling event type 102 for User_0_link with delay 0.0
-u: router1 at 258.712599469496: scheduling event type 0 for router1 with delay 4.0
 u: router1 at 258.712599469496: waiting for an event
 u: User_0_link at 258.712599469496: scheduling event type 0 for User_0_link with delay 0.01
 u: User_0_link at 258.712599469496: event type 102 completed service
@@ -1334,222 +1182,122 @@ u: User_0_link at 258.722599469496: event type 0 completed service
 u: User_0_link at 258.722599469496: waiting for an event
 u: Input_User_0 at 258.722599469496: scheduling event type 20 for User_0 with delay 0.0
 u: Input_User_0 at 258.722599469496: waiting for an event
+u: User_0 at 258.722599469496: scheduling event type 105 for Output_User_0 with delay 0.0
 u: User_0 at 258.722599469496: waiting for an event
-u: Output_Res_4 at 261.492599469496: scheduling event type 102 for Res_4_link with delay 0.0
-u: Output_Res_4 at 261.492599469496: scheduling event type 104 for Output_Res_4 with delay 12.0
-u: Output_Res_4 at 261.492599469496: waiting for an event
-u: Res_4_link at 261.492599469496: scheduling event type 0 for Res_4_link with delay 0.01
-u: Res_4_link at 261.492599469496: event type 102 completed service
-u: Res_4_link at 261.492599469496: waiting for an event
-u: Res_4_link at 261.502599469496: scheduling event type 102 for router2 with delay 0.0
-u: Res_4_link at 261.502599469496: event type 0 completed service
-u: Res_4_link at 261.502599469496: waiting for an event
-u: router2 at 261.502599469496: scheduling event type 0 for router2 with delay 1.2
-u: router2 at 261.502599469496: waiting for an event
-u: router2 at 262.70259946949596: scheduling event type 102 for r1_r2_link with delay 0.0
-u: router2 at 262.70259946949596: waiting for an event
-u: r1_r2_link at 262.70259946949596: scheduling event type 0 for r1_r2_link with delay 0.01
-u: r1_r2_link at 262.70259946949596: event type 102 completed service
-u: r1_r2_link at 262.70259946949596: waiting for an event
-u: r1_r2_link at 262.71259946949596: scheduling event type 102 for router1 with delay 0.0
-u: r1_r2_link at 262.71259946949596: event type 0 completed service
-u: r1_r2_link at 262.71259946949596: waiting for an event
-u: router1 at 262.71259946949596: waiting for an event
-u: router1 at 262.712599469496: scheduling event type 102 for User_0_link with delay 0.0
-u: router1 at 262.712599469496: scheduling event type 0 for router1 with delay 12.0
-u: router1 at 262.712599469496: waiting for an event
-u: User_0_link at 262.712599469496: scheduling event type 0 for User_0_link with delay 0.01
-u: User_0_link at 262.712599469496: event type 102 completed service
-u: User_0_link at 262.712599469496: waiting for an event
-u: User_0_link at 262.722599469496: scheduling event type 108 for Input_User_0 with delay 0.0
-u: User_0_link at 262.722599469496: event type 0 completed service
+u: Output_User_0 at 258.722599469496: scheduling event type 104 for Output_User_0 with delay 4.0
+u: Output_User_0 at 258.722599469496: waiting for an event
+u: Output_User_0 at 262.722599469496: scheduling event type 102 for User_0_link with delay 0.0
+u: Output_User_0 at 262.722599469496: waiting for an event
+u: User_0_link at 262.722599469496: scheduling event type 0 for User_0_link with delay 0.01
+u: User_0_link at 262.722599469496: event type 102 completed service
 u: User_0_link at 262.722599469496: waiting for an event
-u: Input_User_0 at 262.722599469496: waiting for an event
-u: Output_Res_4 at 273.492599469496: scheduling event type 102 for Res_4_link with delay 0.0
-u: Output_Res_4 at 273.492599469496: scheduling event type 104 for Output_Res_4 with delay 12.0
-u: Output_Res_4 at 273.492599469496: waiting for an event
-u: Res_4_link at 273.492599469496: scheduling event type 0 for Res_4_link with delay 0.01
-u: Res_4_link at 273.492599469496: event type 102 completed service
-u: Res_4_link at 273.492599469496: waiting for an event
-u: Res_4_link at 273.502599469496: scheduling event type 102 for router2 with delay 0.0
-u: Res_4_link at 273.502599469496: event type 0 completed service
-u: Res_4_link at 273.502599469496: waiting for an event
-u: router2 at 273.502599469496: scheduling event type 0 for router2 with delay 1.2
-u: router2 at 273.502599469496: waiting for an event
-u: router2 at 274.70259946949596: scheduling event type 102 for r1_r2_link with delay 0.0
-u: router2 at 274.70259946949596: waiting for an event
-u: r1_r2_link at 274.70259946949596: scheduling event type 0 for r1_r2_link with delay 0.01
-u: r1_r2_link at 274.70259946949596: event type 102 completed service
-u: r1_r2_link at 274.70259946949596: waiting for an event
-u: r1_r2_link at 274.71259946949596: scheduling event type 102 for router1 with delay 0.0
-u: r1_r2_link at 274.71259946949596: event type 0 completed service
-u: r1_r2_link at 274.71259946949596: waiting for an event
-u: router1 at 274.71259946949596: waiting for an event
-u: router1 at 274.712599469496: scheduling event type 102 for User_0_link with delay 0.0
-u: router1 at 274.712599469496: scheduling event type 0 for router1 with delay 12.0
-u: router1 at 274.712599469496: waiting for an event
-u: User_0_link at 274.712599469496: scheduling event type 0 for User_0_link with delay 0.01
-u: User_0_link at 274.712599469496: event type 102 completed service
-u: User_0_link at 274.712599469496: waiting for an event
-u: User_0_link at 274.722599469496: scheduling event type 108 for Input_User_0 with delay 0.0
-u: User_0_link at 274.722599469496: event type 0 completed service
-u: User_0_link at 274.722599469496: waiting for an event
-u: Input_User_0 at 274.722599469496: waiting for an event
-u: Output_Res_4 at 285.492599469496: scheduling event type 102 for Res_4_link with delay 0.0
-u: Output_Res_4 at 285.492599469496: waiting for an event
-u: Res_4_link at 285.492599469496: scheduling event type 0 for Res_4_link with delay 0.01
-u: Res_4_link at 285.492599469496: event type 102 completed service
-u: Res_4_link at 285.492599469496: waiting for an event
-u: Res_4_link at 285.502599469496: scheduling event type 102 for router2 with delay 0.0
-u: Res_4_link at 285.502599469496: event type 0 completed service
-u: Res_4_link at 285.502599469496: waiting for an event
-u: router2 at 285.502599469496: scheduling event type 0 for router2 with delay 0.4
-u: router2 at 285.502599469496: waiting for an event
-u: router2 at 285.90259946949595: scheduling event type 102 for r1_r2_link with delay 0.0
-u: router2 at 285.90259946949595: waiting for an event
-u: r1_r2_link at 285.90259946949595: scheduling event type 0 for r1_r2_link with delay 0.01
-u: r1_r2_link at 285.90259946949595: event type 102 completed service
-u: r1_r2_link at 285.90259946949595: waiting for an event
-u: r1_r2_link at 285.91259946949594: scheduling event type 102 for router1 with delay 0.0
-u: r1_r2_link at 285.91259946949594: event type 0 completed service
-u: r1_r2_link at 285.91259946949594: waiting for an event
-u: router1 at 285.91259946949594: waiting for an event
-u: router1 at 286.712599469496: scheduling event type 102 for User_0_link with delay 0.0
-u: router1 at 286.712599469496: scheduling event type 0 for router1 with delay 12.0
-u: router1 at 286.712599469496: waiting for an event
-u: User_0_link at 286.712599469496: scheduling event type 0 for User_0_link with delay 0.01
-u: User_0_link at 286.712599469496: event type 102 completed service
-u: User_0_link at 286.712599469496: waiting for an event
-u: User_0_link at 286.722599469496: scheduling event type 108 for Input_User_0 with delay 0.0
-u: User_0_link at 286.722599469496: event type 0 completed service
-u: User_0_link at 286.722599469496: waiting for an event
-u: Input_User_0 at 286.722599469496: waiting for an event
-u: router1 at 298.712599469496: scheduling event type 102 for User_0_link with delay 0.0
-u: router1 at 298.712599469496: waiting for an event
-u: User_0_link at 298.712599469496: scheduling event type 0 for User_0_link with delay 0.01
-u: User_0_link at 298.712599469496: event type 102 completed service
-u: User_0_link at 298.712599469496: waiting for an event
-u: User_0_link at 298.722599469496: scheduling event type 20 for Input_User_0 with delay 0.0
-u: User_0_link at 298.722599469496: event type 0 completed service
-u: User_0_link at 298.722599469496: waiting for an event
-u: Input_User_0 at 298.722599469496: scheduling event type 20 for User_0 with delay 0.0
-u: Input_User_0 at 298.722599469496: waiting for an event
-u: User_0 at 298.722599469496: scheduling event type 105 for Output_User_0 with delay 0.0
-u: User_0 at 298.722599469496: waiting for an event
-u: Output_User_0 at 298.722599469496: scheduling event type 104 for Output_User_0 with delay 4.0
-u: Output_User_0 at 298.722599469496: waiting for an event
-u: Output_User_0 at 302.722599469496: scheduling event type 102 for User_0_link with delay 0.0
-u: Output_User_0 at 302.722599469496: waiting for an event
-u: User_0_link at 302.722599469496: scheduling event type 0 for User_0_link with delay 0.01
-u: User_0_link at 302.722599469496: event type 102 completed service
-u: User_0_link at 302.722599469496: waiting for an event
-u: User_0_link at 302.732599469496: scheduling event type 102 for router1 with delay 0.0
-u: User_0_link at 302.732599469496: event type 0 completed service
-u: User_0_link at 302.732599469496: waiting for an event
-u: router1 at 302.732599469496: scheduling event type 0 for router1 with delay 0.4
-u: router1 at 302.732599469496: waiting for an event
-u: router1 at 303.132599469496: scheduling event type 102 for r1_r2_link with delay 0.0
-u: router1 at 303.132599469496: waiting for an event
-u: r1_r2_link at 303.132599469496: scheduling event type 0 for r1_r2_link with delay 0.01
-u: r1_r2_link at 303.132599469496: event type 102 completed service
-u: r1_r2_link at 303.132599469496: waiting for an event
-u: r1_r2_link at 303.14259946949596: scheduling event type 102 for router2 with delay 0.0
-u: r1_r2_link at 303.14259946949596: event type 0 completed service
-u: r1_r2_link at 303.14259946949596: waiting for an event
-u: router2 at 303.14259946949596: scheduling event type 0 for router2 with delay 4.0
-u: router2 at 303.14259946949596: waiting for an event
-u: router2 at 307.14259946949596: scheduling event type 102 for Res_8_link with delay 0.0
-u: router2 at 307.14259946949596: waiting for an event
-u: Res_8_link at 307.14259946949596: scheduling event type 0 for Res_8_link with delay 0.01
-u: Res_8_link at 307.14259946949596: event type 102 completed service
-u: Res_8_link at 307.14259946949596: waiting for an event
-u: Res_8_link at 307.15259946949595: scheduling event type 105 for Input_Res_8 with delay 0.0
-u: Res_8_link at 307.15259946949595: event type 0 completed service
-u: Res_8_link at 307.15259946949595: waiting for an event
-u: Input_Res_8 at 307.15259946949595: scheduling event type 105 for Res_8 with delay 0.0
-u: Input_Res_8 at 307.15259946949595: waiting for an event
-u: Res_8 at 307.15259946949595: scheduling event type 106 for Output_Res_8 with delay 0.0
-u: Res_8 at 307.15259946949595: waiting for an event
-u: Output_Res_8 at 307.15259946949595: scheduling event type 104 for Output_Res_8 with delay 4.0
-u: Output_Res_8 at 307.15259946949595: waiting for an event
-u: Output_Res_8 at 311.15259946949595: scheduling event type 102 for Res_8_link with delay 0.0
-u: Output_Res_8 at 311.15259946949595: waiting for an event
-u: Res_8_link at 311.15259946949595: scheduling event type 0 for Res_8_link with delay 0.01
-u: Res_8_link at 311.15259946949595: event type 102 completed service
-u: Res_8_link at 311.15259946949595: waiting for an event
-u: Res_8_link at 311.16259946949594: scheduling event type 102 for router2 with delay 0.0
-u: Res_8_link at 311.16259946949594: event type 0 completed service
-u: Res_8_link at 311.16259946949594: waiting for an event
-u: router2 at 311.16259946949594: scheduling event type 0 for router2 with delay 0.4
-u: router2 at 311.16259946949594: waiting for an event
-u: router2 at 311.5625994694959: scheduling event type 102 for r1_r2_link with delay 0.0
-u: router2 at 311.5625994694959: waiting for an event
-u: r1_r2_link at 311.5625994694959: scheduling event type 0 for r1_r2_link with delay 0.01
-u: r1_r2_link at 311.5625994694959: event type 102 completed service
-u: r1_r2_link at 311.5625994694959: waiting for an event
-u: r1_r2_link at 311.5725994694959: scheduling event type 102 for router1 with delay 0.0
-u: r1_r2_link at 311.5725994694959: event type 0 completed service
-u: r1_r2_link at 311.5725994694959: waiting for an event
-u: router1 at 311.5725994694959: scheduling event type 0 for router1 with delay 4.0
-u: router1 at 311.5725994694959: waiting for an event
-u: router1 at 315.5725994694959: scheduling event type 102 for User_0_link with delay 0.0
-u: router1 at 315.5725994694959: waiting for an event
-u: User_0_link at 315.5725994694959: scheduling event type 0 for User_0_link with delay 0.01
-u: User_0_link at 315.5725994694959: event type 102 completed service
-u: User_0_link at 315.5725994694959: waiting for an event
-u: User_0_link at 315.5825994694959: scheduling event type 106 for Input_User_0 with delay 0.0
-u: User_0_link at 315.5825994694959: event type 0 completed service
-u: User_0_link at 315.5825994694959: waiting for an event
-u: Input_User_0 at 315.5825994694959: scheduling event type 106 for User_0 with delay 0.0
-u: Input_User_0 at 315.5825994694959: waiting for an event
-u: User_0 at 315.5825994694959: scheduling event type -1 for GridSimShutdown with delay 0.0
-u: User_0 at 315.5825994694959: scheduling event type -1 for Input_User_0 with delay 0.0
-u: User_0 at 315.5825994694959: scheduling event type -1 for Output_User_0 with delay 0.0
-u: GridSimShutdown at 315.5825994694959: scheduling event type -1 for GridInformationService with delay 0.0
-u: GridSimShutdown at 315.5825994694959: start pausing
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_8 with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_5 with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_0 with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_1 with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_4 with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_2 with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_3 with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_9 with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_6 with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_7 with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_0_link with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for router1 with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for router2 with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for User_0_link with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_7_link with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_6_link with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_3_link with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_2_link with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_9_link with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_8_link with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_5_link with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_4_link with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Res_1_link with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for r1_r2_link with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Input_GridInformationService with delay 0.0
-u: GridInformationService at 315.5825994694959: scheduling event type -1 for Output_GridInformationService with delay 0.0
-u: Res_0 at 315.5825994694959: scheduling event type -1 for Input_Res_0 with delay 0.0
-u: Res_0 at 315.5825994694959: scheduling event type -1 for Output_Res_0 with delay 0.0
-u: Res_3 at 315.5825994694959: scheduling event type -1 for Input_Res_3 with delay 0.0
-u: Res_3 at 315.5825994694959: scheduling event type -1 for Output_Res_3 with delay 0.0
-u: Res_1 at 315.5825994694959: scheduling event type -1 for Input_Res_1 with delay 0.0
-u: Res_1 at 315.5825994694959: scheduling event type -1 for Output_Res_1 with delay 0.0
-u: Res_4 at 315.5825994694959: scheduling event type -1 for Input_Res_4 with delay 0.0
-u: Res_4 at 315.5825994694959: scheduling event type -1 for Output_Res_4 with delay 0.0
-u: Res_7 at 315.5825994694959: scheduling event type -1 for Input_Res_7 with delay 0.0
-u: Res_7 at 315.5825994694959: scheduling event type -1 for Output_Res_7 with delay 0.0
-u: Res_8 at 315.5825994694959: scheduling event type -1 for Input_Res_8 with delay 0.0
-u: Res_8 at 315.5825994694959: scheduling event type -1 for Output_Res_8 with delay 0.0
-u: Res_2 at 315.5825994694959: scheduling event type -1 for Input_Res_2 with delay 0.0
-u: Res_2 at 315.5825994694959: scheduling event type -1 for Output_Res_2 with delay 0.0
-u: Res_5 at 315.5825994694959: scheduling event type -1 for Input_Res_5 with delay 0.0
-u: Res_5 at 315.5825994694959: scheduling event type -1 for Output_Res_5 with delay 0.0
-u: Res_6 at 315.5825994694959: scheduling event type -1 for Input_Res_6 with delay 0.0
-u: Res_6 at 315.5825994694959: scheduling event type -1 for Output_Res_6 with delay 0.0
-u: Res_9 at 315.5825994694959: scheduling event type -1 for Input_Res_9 with delay 0.0
-u: Res_9 at 315.5825994694959: scheduling event type -1 for Output_Res_9 with delay 0.0
+u: User_0_link at 262.732599469496: scheduling event type 102 for router1 with delay 0.0
+u: User_0_link at 262.732599469496: event type 0 completed service
+u: User_0_link at 262.732599469496: waiting for an event
+u: router1 at 262.732599469496: scheduling event type 0 for router1 with delay 0.4
+u: router1 at 262.732599469496: waiting for an event
+u: router1 at 263.132599469496: scheduling event type 102 for r1_r2_link with delay 0.0
+u: router1 at 263.132599469496: waiting for an event
+u: r1_r2_link at 263.132599469496: scheduling event type 0 for r1_r2_link with delay 0.01
+u: r1_r2_link at 263.132599469496: event type 102 completed service
+u: r1_r2_link at 263.132599469496: waiting for an event
+u: r1_r2_link at 263.14259946949596: scheduling event type 102 for router2 with delay 0.0
+u: r1_r2_link at 263.14259946949596: event type 0 completed service
+u: r1_r2_link at 263.14259946949596: waiting for an event
+u: router2 at 263.14259946949596: scheduling event type 0 for router2 with delay 4.0
+u: router2 at 263.14259946949596: waiting for an event
+u: router2 at 267.14259946949596: scheduling event type 102 for Res_1_link with delay 0.0
+u: router2 at 267.14259946949596: waiting for an event
+u: Res_1_link at 267.14259946949596: scheduling event type 0 for Res_1_link with delay 0.01
+u: Res_1_link at 267.14259946949596: event type 102 completed service
+u: Res_1_link at 267.14259946949596: waiting for an event
+u: Res_1_link at 267.15259946949595: scheduling event type 105 for Input_Res_1 with delay 0.0
+u: Res_1_link at 267.15259946949595: event type 0 completed service
+u: Res_1_link at 267.15259946949595: waiting for an event
+u: Input_Res_1 at 267.15259946949595: scheduling event type 105 for Res_1 with delay 0.0
+u: Input_Res_1 at 267.15259946949595: waiting for an event
+u: Res_1 at 267.15259946949595: scheduling event type 106 for Output_Res_1 with delay 0.0
+u: Res_1 at 267.15259946949595: waiting for an event
+u: Output_Res_1 at 267.15259946949595: scheduling event type 104 for Output_Res_1 with delay 4.0
+u: Output_Res_1 at 267.15259946949595: waiting for an event
+u: Output_Res_1 at 271.15259946949595: scheduling event type 102 for Res_1_link with delay 0.0
+u: Output_Res_1 at 271.15259946949595: waiting for an event
+u: Res_1_link at 271.15259946949595: scheduling event type 0 for Res_1_link with delay 0.01
+u: Res_1_link at 271.15259946949595: event type 102 completed service
+u: Res_1_link at 271.15259946949595: waiting for an event
+u: Res_1_link at 271.16259946949594: scheduling event type 102 for router2 with delay 0.0
+u: Res_1_link at 271.16259946949594: event type 0 completed service
+u: Res_1_link at 271.16259946949594: waiting for an event
+u: router2 at 271.16259946949594: scheduling event type 0 for router2 with delay 0.4
+u: router2 at 271.16259946949594: waiting for an event
+u: router2 at 271.5625994694959: scheduling event type 102 for r1_r2_link with delay 0.0
+u: router2 at 271.5625994694959: waiting for an event
+u: r1_r2_link at 271.5625994694959: scheduling event type 0 for r1_r2_link with delay 0.01
+u: r1_r2_link at 271.5625994694959: event type 102 completed service
+u: r1_r2_link at 271.5625994694959: waiting for an event
+u: r1_r2_link at 271.5725994694959: scheduling event type 102 for router1 with delay 0.0
+u: r1_r2_link at 271.5725994694959: event type 0 completed service
+u: r1_r2_link at 271.5725994694959: waiting for an event
+u: router1 at 271.5725994694959: scheduling event type 0 for router1 with delay 4.0
+u: router1 at 271.5725994694959: waiting for an event
+u: router1 at 275.5725994694959: scheduling event type 102 for User_0_link with delay 0.0
+u: router1 at 275.5725994694959: waiting for an event
+u: User_0_link at 275.5725994694959: scheduling event type 0 for User_0_link with delay 0.01
+u: User_0_link at 275.5725994694959: event type 102 completed service
+u: User_0_link at 275.5725994694959: waiting for an event
+u: User_0_link at 275.5825994694959: scheduling event type 106 for Input_User_0 with delay 0.0
+u: User_0_link at 275.5825994694959: event type 0 completed service
+u: User_0_link at 275.5825994694959: waiting for an event
+u: Input_User_0 at 275.5825994694959: scheduling event type 106 for User_0 with delay 0.0
+u: Input_User_0 at 275.5825994694959: waiting for an event
+u: User_0 at 275.5825994694959: scheduling event type -1 for GridSimShutdown with delay 0.0
+u: User_0 at 275.5825994694959: scheduling event type -1 for Input_User_0 with delay 0.0
+u: User_0 at 275.5825994694959: scheduling event type -1 for Output_User_0 with delay 0.0
+u: GridSimShutdown at 275.5825994694959: scheduling event type -1 for GridInformationService with delay 0.0
+u: GridSimShutdown at 275.5825994694959: start pausing
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_1 with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_5 with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_9 with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_4 with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_2 with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_7 with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_3 with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_0 with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_8 with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_6 with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_0_link with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for router2 with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for User_0_link with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_7_link with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_6_link with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for r1_r2_link with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_9_link with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_3_link with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_8_link with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_5_link with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_4_link with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_2_link with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Res_1_link with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for router1 with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Input_GridInformationService with delay 0.0
+u: GridInformationService at 275.5825994694959: scheduling event type -1 for Output_GridInformationService with delay 0.0
+u: Res_1 at 275.5825994694959: scheduling event type -1 for Input_Res_1 with delay 0.0
+u: Res_1 at 275.5825994694959: scheduling event type -1 for Output_Res_1 with delay 0.0
+u: Res_2 at 275.5825994694959: scheduling event type -1 for Input_Res_2 with delay 0.0
+u: Res_2 at 275.5825994694959: scheduling event type -1 for Output_Res_2 with delay 0.0
+u: Res_5 at 275.5825994694959: scheduling event type -1 for Input_Res_5 with delay 0.0
+u: Res_0 at 275.5825994694959: scheduling event type -1 for Input_Res_0 with delay 0.0
+u: Res_0 at 275.5825994694959: scheduling event type -1 for Output_Res_0 with delay 0.0
+u: Res_9 at 275.5825994694959: scheduling event type -1 for Input_Res_9 with delay 0.0
+u: Res_9 at 275.5825994694959: scheduling event type -1 for Output_Res_9 with delay 0.0
+u: Res_4 at 275.5825994694959: scheduling event type -1 for Input_Res_4 with delay 0.0
+u: Res_4 at 275.5825994694959: scheduling event type -1 for Output_Res_4 with delay 0.0
+u: Res_5 at 275.5825994694959: scheduling event type -1 for Output_Res_5 with delay 0.0
+u: Res_7 at 275.5825994694959: scheduling event type -1 for Input_Res_7 with delay 0.0
+u: Res_7 at 275.5825994694959: scheduling event type -1 for Output_Res_7 with delay 0.0
+u: Res_8 at 275.5825994694959: scheduling event type -1 for Input_Res_8 with delay 0.0
+u: Res_8 at 275.5825994694959: scheduling event type -1 for Output_Res_8 with delay 0.0
+u: Res_3 at 275.5825994694959: scheduling event type -1 for Input_Res_3 with delay 0.0
+u: Res_3 at 275.5825994694959: scheduling event type -1 for Output_Res_3 with delay 0.0
+u: Res_6 at 275.5825994694959: scheduling event type -1 for Input_Res_6 with delay 0.0
+u: Res_6 at 275.5825994694959: scheduling event type -1 for Output_Res_6 with delay 0.0
